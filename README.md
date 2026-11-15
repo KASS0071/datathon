@@ -13,6 +13,13 @@ The project does not predict what happens to individual graduates. It asks: *for
 
 ---
 
+## Interactive Tableau maps
+
+- [Annual Salary Needed to Live Alone in the Bay Area](https://public.tableau.com/app/profile/karissa.song/viz/AnnualSalaryNeededtoLiveAloneintheBayArea/1) compares the gross annual salary needed to live alone or share a two-bedroom across 58 Bay Area cities.
+- [Monthly Budget Gap by Occupation](https://public.tableau.com/app/profile/karissa.song/viz/MonthlyBudgetGapbyOccupation/1) shows the modeled monthly shortfall or surplus by city for a selected occupation and household scenario.
+
+---
+
 ## Key findings
 
 **Barrier Index:** the share of modeled city × occupation pairs where take-home pay does not cover rent, loan payments, essentials, childcare and a $250/month savings target. Within each pay model, every profile is scored on the same set of pairs.
