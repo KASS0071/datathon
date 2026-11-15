@@ -209,5 +209,5 @@ Row counts and checksums for every processed file are in [data/processed/MANIFES
 | [docs/DATA_NOTES.md](docs/DATA_NOTES.md) | Data provenance, coverage and caveats |
 | [docs/DATA_CONTRACT.md](docs/DATA_CONTRACT.md) | Columns the analysis expects from its inputs |
 | [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) | Every result table and what one row means |
-| [docs/guide/](docs/guide/) | Full guide to data, formulas, tables and figures (English and Chinese, .md and .pdf) |
+| [docs/guide/](docs/guide/) | Full guide to data, formulas, tables and figures ( .md and .pdf) |
 | [docs/PROJECT_REPORT_ZH.pdf](docs/PROJECT_REPORT_ZH.pdf) | Project report (Chinese) |
