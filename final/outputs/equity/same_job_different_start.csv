@@ -1,0 +1,15 @@
+profile,city,occupation,median_annual_salary,net_monthly,family_support,personal_rent,loan_payment,essentials,childcare,savings_target,monthly_balance,feasibility_gap,feasible
+none_debt | alone | no_support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,0.0,4056.5,0.0,1500.0,0.0,250.0,-1113.9856333333328,1363.9856333333328,False
+none_debt | alone | support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,500.0,4056.5,0.0,1500.0,0.0,250.0,-613.9856333333328,863.9856333333328,False
+none_debt | shared | no_support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,0.0,2624.5,0.0,1500.0,0.0,250.0,318.01436666666723,-68.01436666666723,True
+none_debt | shared | support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,500.0,2624.5,0.0,1500.0,0.0,250.0,818.0143666666672,-568.0143666666672,True
+median_debt | alone | no_support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,0.0,4056.5,230.37345744952742,1500.0,0.0,250.0,-1344.3590907828602,1594.3590907828602,False
+median_debt | alone | support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,500.0,4056.5,230.37345744952742,1500.0,0.0,250.0,-844.3590907828602,1094.3590907828602,False
+median_debt | shared | no_support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,0.0,2624.5,230.37345744952742,1500.0,0.0,250.0,87.64090921713978,162.35909078286022,False
+median_debt | shared | support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,500.0,2624.5,230.37345744952742,1500.0,0.0,250.0,587.6409092171398,-337.6409092171398,True
+high_debt | alone | no_support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,0.0,4056.5,282.4727272665744,1500.0,0.0,250.0,-1396.458360599907,1646.4583605999069,False
+high_debt | alone | support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,500.0,4056.5,282.4727272665744,1500.0,0.0,250.0,-896.4583605999071,1146.4583605999069,False
+high_debt | shared | no_support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,0.0,2624.5,282.4727272665744,1500.0,0.0,250.0,35.54163940009289,214.4583605999078,False
+high_debt | shared | support,San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,500.0,2624.5,282.4727272665744,1500.0,0.0,250.0,535.5416394000929,-285.5416394000922,True
+"student_parent (median_debt, 2br, childcare) | no_support",San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,0.0,5249.0,230.37345744952742,1500.0,1795.4183333333333,250.0,-4332.277424116193,4582.277424116194,False
+"student_parent (median_debt, 2br, childcare) | support",San Carlos,"Skilled trades, maintenance & repair",68317.6,4442.514366666667,500.0,5249.0,230.37345744952742,1500.0,1795.4183333333333,250.0,-3832.2774241161933,4082.277424116194,False

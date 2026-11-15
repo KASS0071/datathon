@@ -1,0 +1,677 @@
+county,city,bedrooms,listing_count,median_monthly_rent_usd
+Alameda,Alameda,0,75,2600.0
+Alameda,Alameda,1,322,2948.0
+Alameda,Alameda,2,273,2950.0
+Alameda,Alameda,3,44,4510.5
+Alameda,Alameda,4,21,4923.0
+Alameda,Alameda,5,1,1300.0
+Alameda,Albany,0,4,1997.5
+Alameda,Albany,1,9,2200.0
+Alameda,Albany,2,10,3097.5
+Alameda,Albany,3,1,4300.0
+Alameda,Berkeley,0,485,2395.0
+Alameda,Berkeley,1,786,2495.0
+Alameda,Berkeley,2,844,3295.0
+Alameda,Berkeley,3,337,3975.0
+Alameda,Berkeley,4,125,2179.0
+Alameda,Berkeley,5,145,1828.0
+Alameda,Berkeley,6,66,1831.5
+Alameda,Berkeley,7,10,2063.0
+Alameda,Berkeley,8,8,1695.0
+Alameda,Berkeley,9,10,2440.0
+Alameda,Berkeley,10,8,1695.0
+Alameda,Berkeley,11,9,1695.0
+Alameda,Berkeley,12,1,18000.0
+Alameda,Berkeley,14,3,1695.0
+Alameda,Castro Valley,0,3,1795.0
+Alameda,Castro Valley,1,37,2195.0
+Alameda,Castro Valley,2,77,2595.0
+Alameda,Castro Valley,3,10,3325.0
+Alameda,Castro Valley,4,6,4450.0
+Alameda,Castro Valley,5,1,5700.0
+Alameda,Dublin,0,26,2434.5
+Alameda,Dublin,1,408,2625.0
+Alameda,Dublin,2,348,3188.5
+Alameda,Dublin,3,45,3950.0
+Alameda,Dublin,4,14,4150.0
+Alameda,Dublin,5,9,4995.0
+Alameda,Dublin,6,1,5395.0
+Alameda,Emeryville,0,56,2496.5
+Alameda,Emeryville,1,159,3010.0
+Alameda,Emeryville,2,168,4059.5
+Alameda,Emeryville,3,45,4590.0
+Alameda,Emeryville,4,1,4200.0
+Alameda,Emeryville,6,1,1295.0
+Alameda,Fremont,0,95,2297.0
+Alameda,Fremont,1,1324,2627.0
+Alameda,Fremont,2,1153,3317.0
+Alameda,Fremont,3,193,4200.0
+Alameda,Fremont,4,32,4697.5
+Alameda,Fremont,5,10,5563.5
+Alameda,Hayward,0,37,2117.0
+Alameda,Hayward,1,576,2213.0
+Alameda,Hayward,2,566,2716.0
+Alameda,Hayward,3,106,3549.0
+Alameda,Hayward,4,15,4547.0
+Alameda,Hayward,5,5,5100.0
+Alameda,Livermore,0,5,1900.0
+Alameda,Livermore,1,149,2375.0
+Alameda,Livermore,2,186,2757.0
+Alameda,Livermore,3,33,3588.0
+Alameda,Livermore,4,12,3800.0
+Alameda,Livermore,5,5,1650.0
+Alameda,Mountain House,1,1,1650.0
+Alameda,Newark,0,2,1550.0
+Alameda,Newark,1,29,2712.0
+Alameda,Newark,2,55,3192.0
+Alameda,Newark,3,11,3999.0
+Alameda,Newark,4,12,4497.5
+Alameda,Newark,5,1,5495.0
+Alameda,Newark,6,1,6700.0
+Alameda,Oakland,0,1206,1895.0
+Alameda,Oakland,1,2315,2495.0
+Alameda,Oakland,2,1522,3122.5
+Alameda,Oakland,3,289,3540.0
+Alameda,Oakland,4,84,1820.5
+Alameda,Oakland,5,9,7200.0
+Alameda,Oakland,6,2,2947.5
+Alameda,Oakland,7,1,1295.0
+Alameda,Piedmont,0,1,1825.0
+Alameda,Piedmont,1,1,2195.0
+Alameda,Piedmont,2,4,2720.0
+Alameda,Piedmont,3,1,8800.0
+Alameda,Piedmont,5,1,12000.0
+Alameda,Pleasanton,0,19,2300.0
+Alameda,Pleasanton,1,214,2516.0
+Alameda,Pleasanton,2,287,3079.0
+Alameda,Pleasanton,3,42,3813.5
+Alameda,Pleasanton,4,12,4475.0
+Alameda,Pleasanton,5,8,6497.5
+Alameda,Pleasanton,6,1,8500.0
+Alameda,San Leandro,0,57,2014.0
+Alameda,San Leandro,1,257,2150.0
+Alameda,San Leandro,2,305,2499.0
+Alameda,San Leandro,3,40,3300.0
+Alameda,San Leandro,4,9,3749.0
+Alameda,San Lorenzo,1,25,2005.0
+Alameda,San Lorenzo,2,22,2550.0
+Alameda,San Lorenzo,3,5,3550.0
+Alameda,San Lorenzo,4,2,6975.0
+Alameda,Tracy,1,1,1500.0
+Alameda,Union City,0,7,2186.0
+Alameda,Union City,1,130,2299.5
+Alameda,Union City,2,84,2700.0
+Alameda,Union City,3,16,3925.0
+Alameda,Union City,4,6,4025.0
+Alameda,Union City,5,3,5300.0
+Contra Costa,Alamo,0,1,3000.0
+Contra Costa,Alamo,2,2,4650.0
+Contra Costa,Alamo,3,2,7200.0
+Contra Costa,Antioch,0,3,1550.0
+Contra Costa,Antioch,1,175,1915.0
+Contra Costa,Antioch,2,213,2100.0
+Contra Costa,Antioch,3,62,3250.0
+Contra Costa,Antioch,4,26,3547.5
+Contra Costa,Antioch,5,13,4595.0
+Contra Costa,Antioch,6,3,4500.0
+Contra Costa,Antioch,7,1,4500.0
+Contra Costa,Bay Point,1,3,1805.0
+Contra Costa,Bay Point,2,17,2250.0
+Contra Costa,Bay Point,3,6,2877.0
+Contra Costa,Bay Point,4,5,4500.0
+Contra Costa,Bay Point,5,1,3750.0
+Contra Costa,Bay Pt,1,12,1874.0
+Contra Costa,Bay Pt,2,33,2055.0
+Contra Costa,Bay Pt,3,23,2474.0
+Contra Costa,Bethel Island,2,2,2422.5
+Contra Costa,Bethel Island,3,1,4200.0
+Contra Costa,Bethel Island,4,2,6249.5
+Contra Costa,Brentwood,0,1,2000.0
+Contra Costa,Brentwood,1,31,2470.0
+Contra Costa,Brentwood,2,98,2925.0
+Contra Costa,Brentwood,3,30,3395.0
+Contra Costa,Brentwood,4,25,3600.0
+Contra Costa,Brentwood,5,11,4000.0
+Contra Costa,Brentwood,6,2,2974.5
+Contra Costa,Clayton,3,5,3695.0
+Contra Costa,Concord,0,30,1818.0
+Contra Costa,Concord,1,358,1956.5
+Contra Costa,Concord,2,361,2499.0
+Contra Costa,Concord,3,45,3200.0
+Contra Costa,Concord,4,20,4272.5
+Contra Costa,Concord,5,4,1225.0
+Contra Costa,Crockett,1,2,1922.5
+Contra Costa,Crockett,2,4,2897.5
+Contra Costa,Crockett,3,1,2950.0
+Contra Costa,Danville,1,23,2920.0
+Contra Costa,Danville,2,41,3195.0
+Contra Costa,Danville,3,19,4300.0
+Contra Costa,Danville,4,9,5900.0
+Contra Costa,Danville,5,3,6500.0
+Contra Costa,Danville,6,1,14950.0
+Contra Costa,Diablo,3,1,5500.0
+Contra Costa,Discovery Bay,2,2,2174.5
+Contra Costa,Discovery Bay,3,8,3400.0
+Contra Costa,Discovery Bay,4,6,3430.0
+Contra Costa,Discovery Bay,5,1,4300.0
+Contra Costa,El Cerrito,0,5,2012.0
+Contra Costa,El Cerrito,1,43,2390.0
+Contra Costa,El Cerrito,2,34,2435.5
+Contra Costa,El Cerrito,3,6,5150.0
+Contra Costa,El Cerrito,4,1,9200.0
+Contra Costa,El Cerrito,5,1,1700.0
+Contra Costa,El Sobrante,0,2,1572.5
+Contra Costa,El Sobrante,1,7,2100.0
+Contra Costa,El Sobrante,2,34,2857.5
+Contra Costa,El Sobrante,3,5,3445.0
+Contra Costa,El Sobrante,4,3,3695.0
+Contra Costa,El Sobrante,5,1,5156.0
+Contra Costa,Hercules,0,17,2350.0
+Contra Costa,Hercules,1,25,2800.0
+Contra Costa,Hercules,2,28,3650.0
+Contra Costa,Hercules,3,2,3650.0
+Contra Costa,Hercules,4,3,4750.0
+Contra Costa,Kensington,2,1,2200.0
+Contra Costa,Kensington,3,2,4500.0
+Contra Costa,Lafayette,0,1,2395.0
+Contra Costa,Lafayette,1,18,2395.0
+Contra Costa,Lafayette,2,28,3456.0
+Contra Costa,Lafayette,3,8,4616.0
+Contra Costa,Lafayette,4,4,12187.5
+Contra Costa,Lafayette,5,2,12547.5
+Contra Costa,Lafayette,6,1,16000.0
+Contra Costa,Martinez,0,6,1687.5
+Contra Costa,Martinez,1,62,2078.5
+Contra Costa,Martinez,2,93,2405.0
+Contra Costa,Martinez,3,5,3595.0
+Contra Costa,Martinez,4,4,4172.5
+Contra Costa,Martinez,5,1,5300.0
+Contra Costa,Moraga,1,3,1975.0
+Contra Costa,Moraga,2,10,2645.0
+Contra Costa,Moraga,3,1,4450.0
+Contra Costa,Moraga,4,1,5800.0
+Contra Costa,Moraga,6,1,6300.0
+Contra Costa,Oakley,1,8,1713.0
+Contra Costa,Oakley,2,16,2038.0
+Contra Costa,Oakley,3,15,3095.0
+Contra Costa,Oakley,4,6,3615.0
+Contra Costa,Oakley,5,2,5325.0
+Contra Costa,Orinda,1,5,2300.0
+Contra Costa,Orinda,2,1,2895.0
+Contra Costa,Orinda,4,2,8700.0
+Contra Costa,Orinda,5,1,15000.0
+Contra Costa,Pinole,0,3,1678.0
+Contra Costa,Pinole,1,14,1798.0
+Contra Costa,Pinole,2,27,2299.0
+Contra Costa,Pinole,3,8,3450.0
+Contra Costa,Pinole,4,4,4075.0
+Contra Costa,Pittsburg,0,4,1603.5
+Contra Costa,Pittsburg,1,220,1994.5
+Contra Costa,Pittsburg,2,280,2351.0
+Contra Costa,Pittsburg,3,23,2895.0
+Contra Costa,Pittsburg,4,17,3500.0
+Contra Costa,Pittsburg,5,4,2340.0
+Contra Costa,Pleasant Hill,0,24,1890.0
+Contra Costa,Pleasant Hill,1,155,2354.0
+Contra Costa,Pleasant Hill,2,240,2846.0
+Contra Costa,Pleasant Hill,3,20,3447.0
+Contra Costa,Pleasant Hill,4,7,4750.0
+Contra Costa,Pleasant Hill,5,1,6000.0
+Contra Costa,Point Richmond,1,1,2595.0
+Contra Costa,Point Richmond,2,1,2600.0
+Contra Costa,Pt Richmond,2,1,2400.0
+Contra Costa,Richmond,0,8,1559.5
+Contra Costa,Richmond,1,144,2217.0
+Contra Costa,Richmond,2,160,2819.0
+Contra Costa,Richmond,3,35,3500.0
+Contra Costa,Richmond,4,11,3900.0
+Contra Costa,Richmond,5,2,3250.0
+Contra Costa,Rodeo,1,1,1695.0
+Contra Costa,Rodeo,2,5,2195.0
+Contra Costa,Rodeo,3,1,3050.0
+Contra Costa,Rodeo,5,1,5500.0
+Contra Costa,San Pablo,0,9,1795.0
+Contra Costa,San Pablo,1,20,2025.0
+Contra Costa,San Pablo,2,30,2275.0
+Contra Costa,San Pablo,3,6,3200.0
+Contra Costa,San Pablo,4,3,3800.0
+Contra Costa,San Pablo,5,1,4995.0
+Contra Costa,San Ramon,0,8,2027.0
+Contra Costa,San Ramon,1,136,2437.0
+Contra Costa,San Ramon,2,153,2919.0
+Contra Costa,San Ramon,3,22,4228.5
+Contra Costa,San Ramon,4,21,5250.0
+Contra Costa,San Ramon,5,6,6450.0
+Contra Costa,San Ramon,6,4,6500.0
+Contra Costa,San Ramon,9,1,1200.0
+Contra Costa,Walnut Creek,0,152,2110.5
+Contra Costa,Walnut Creek,1,769,2554.0
+Contra Costa,Walnut Creek,2,558,2944.0
+Contra Costa,Walnut Creek,3,38,4057.0
+Contra Costa,Walnut Creek,4,9,5150.0
+Marin,Belvedere,0,1,27500.0
+Marin,Belvedere,2,1,10800.0
+Marin,Belvedere,3,1,16950.0
+Marin,Belvedere,4,1,11500.0
+Marin,Belvedere Tiburon,1,1,2950.0
+Marin,Belvedere Tiburon,2,2,6325.0
+Marin,Belvedere Tiburon,3,2,16975.0
+Marin,Corte Madera,0,2,2400.0
+Marin,Corte Madera,1,7,2918.0
+Marin,Corte Madera,2,17,4790.0
+Marin,Corte Madera,3,12,6962.5
+Marin,Corte Madera,4,2,10250.0
+Marin,Dillon Beach,5,1,12000.0
+Marin,Fairfax,0,1,2275.0
+Marin,Fairfax,1,2,2275.0
+Marin,Fairfax,2,2,2300.0
+Marin,Fairfax,3,1,3950.0
+Marin,Fairfax,4,2,7125.0
+Marin,Fairfax,5,1,1800.0
+Marin,Forest Knolls,2,1,3750.0
+Marin,Greenbrae,1,2,2545.0
+Marin,Greenbrae,2,2,3572.5
+Marin,Greenbrae,3,3,8750.0
+Marin,Greenbrae,4,1,10490.0
+Marin,Inverness,2,1,4000.0
+Marin,Kentfield,2,2,2749.0
+Marin,Kentfield,4,1,14000.0
+Marin,Kentfield,6,1,13250.0
+Marin,Larkspur,0,3,2095.0
+Marin,Larkspur,1,48,3275.0
+Marin,Larkspur,2,49,4030.0
+Marin,Larkspur,3,7,8900.0
+Marin,Mill Valley,0,5,1995.0
+Marin,Mill Valley,1,14,2839.0
+Marin,Mill Valley,2,26,3528.5
+Marin,Mill Valley,3,7,8500.0
+Marin,Mill Valley,4,3,7000.0
+Marin,Mill Valley,5,3,28000.0
+Marin,Nicasio,3,1,5900.0
+Marin,Novato,0,2,2572.5
+Marin,Novato,1,25,3000.0
+Marin,Novato,2,44,3112.0
+Marin,Novato,3,21,4650.0
+Marin,Novato,4,9,5900.0
+Marin,Novato,5,1,7350.0
+Marin,Petaluma,1,1,1275.0
+Marin,Ross,4,1,13000.0
+Marin,Ross,5,1,17500.0
+Marin,San Anselmo,1,5,2500.0
+Marin,San Anselmo,2,3,3995.0
+Marin,San Anselmo,3,3,8500.0
+Marin,San Anselmo,4,5,8500.0
+Marin,San Quentin,3,1,4750.0
+Marin,San Rafael,0,26,2295.0
+Marin,San Rafael,1,130,2606.0
+Marin,San Rafael,2,113,3312.0
+Marin,San Rafael,3,17,4309.0
+Marin,San Rafael,4,6,5850.0
+Marin,San Rafael,5,2,13250.0
+Marin,San Rafael,6,1,7950.0
+Marin,Sausalito,0,2,2525.0
+Marin,Sausalito,1,5,3295.0
+Marin,Sausalito,2,5,6000.0
+Marin,Sausalito,3,2,8100.0
+Marin,Sausalito,4,1,13500.0
+Marin,Sausalito,5,1,19500.0
+Marin,Stinson Beach,1,1,5000.0
+Marin,Tiburon,0,1,2800.0
+Marin,Tiburon,1,22,4502.0
+Marin,Tiburon,2,42,5747.5
+Marin,Tiburon,3,19,9780.0
+Marin,Tiburon,4,2,25000.0
+Marin,Tiburon,5,2,17000.0
+Marin,Tiburon,6,1,25000.0
+Marin,Woodacre,3,1,4295.0
+Marin,Woodacre,5,1,6580.0
+Napa,American Canyon,1,17,2199.0
+Napa,American Canyon,2,15,2575.0
+Napa,American Canyon,3,5,3500.0
+Napa,American Canyon,4,4,4200.0
+Napa,American Canyon,5,1,5250.0
+Napa,Angwin,3,1,3200.0
+Napa,Calistoga,1,3,2500.0
+Napa,Calistoga,2,4,3350.0
+Napa,Calistoga,3,8,6500.0
+Napa,Calistoga,4,5,10000.0
+Napa,Calistoga,5,1,37000.0
+Napa,Napa,0,7,1850.0
+Napa,Napa,1,257,2348.0
+Napa,Napa,2,303,2760.0
+Napa,Napa,3,58,3825.0
+Napa,Napa,4,20,4640.0
+Napa,Napa,5,1,5000.0
+Napa,Pope Valley,2,1,2700.0
+Napa,Pope Valley,3,1,8700.0
+Napa,Sonoma,1,1,2200.0
+Napa,St Helena,1,4,2397.5
+Napa,St Helena,2,10,3525.0
+Napa,St Helena,3,11,5950.0
+Napa,St Helena,4,7,10000.0
+Napa,St Helena,5,4,18475.0
+Napa,St Helena,6,2,45000.0
+Napa,Yountville,1,2,2722.5
+Napa,Yountville,2,5,3700.0
+San Francisco,San Francisco,0,1691,2790.0
+San Francisco,San Francisco,1,2518,3887.5
+San Francisco,San Francisco,2,1665,5300.0
+San Francisco,San Francisco,3,228,6272.5
+San Francisco,San Francisco,4,36,9725.0
+San Francisco,San Francisco,5,13,2100.0
+San Francisco,San Francisco,6,2,1572.5
+San Francisco,San Francisco,8,1,18795.0
+San Francisco,San Francisco,10,1,1900.0
+San Francisco,San Francisco,12,1,1000.0
+San Mateo,Atherton,3,2,9050.0
+San Mateo,Atherton,4,2,54725.0
+San Mateo,Atherton,5,1,8900.0
+San Mateo,Belmont,0,69,3015.0
+San Mateo,Belmont,1,188,3179.0
+San Mateo,Belmont,2,96,3773.5
+San Mateo,Belmont,3,9,4244.0
+San Mateo,Belmont,4,1,8400.0
+San Mateo,Brisbane,0,1,1895.0
+San Mateo,Brisbane,2,2,5855.0
+San Mateo,Brisbane,3,1,5995.0
+San Mateo,Brisbane,4,2,13820.0
+San Mateo,Burlingame,0,63,2928.0
+San Mateo,Burlingame,1,312,3988.5
+San Mateo,Burlingame,2,139,5487.0
+San Mateo,Burlingame,3,19,7011.0
+San Mateo,Burlingame,4,1,12000.0
+San Mateo,Burlingame,5,4,13497.5
+San Mateo,Colma,1,1,3162.0
+San Mateo,Colma,2,7,3920.0
+San Mateo,Colma,3,1,4518.0
+San Mateo,Daly City,0,83,2267.0
+San Mateo,Daly City,1,212,2629.5
+San Mateo,Daly City,2,109,3372.0
+San Mateo,Daly City,3,19,4772.0
+San Mateo,Daly City,4,7,5950.0
+San Mateo,Daly City,5,1,14364.0
+San Mateo,Daly City,6,1,5000.0
+San Mateo,East Palo Alto,1,3,2895.0
+San Mateo,East Palo Alto,2,4,4247.5
+San Mateo,East Palo Alto,3,3,4900.0
+San Mateo,East Palo Alto,4,1,5500.0
+San Mateo,East Palo Alto,5,1,9500.0
+San Mateo,East Palo Alto,6,1,1150.0
+San Mateo,El Granada,2,2,3700.0
+San Mateo,Foster City,0,13,3133.0
+San Mateo,Foster City,1,319,3449.0
+San Mateo,Foster City,2,308,4075.5
+San Mateo,Foster City,3,25,5637.0
+San Mateo,Foster City,4,2,7147.5
+San Mateo,Foster City,5,1,6495.0
+San Mateo,Half Moon Bay,2,3,3800.0
+San Mateo,Half Moon Bay,3,2,6850.0
+San Mateo,Half Moon Bay,4,2,17500.0
+San Mateo,Hillsborough,3,1,9800.0
+San Mateo,Hillsborough,4,3,14250.0
+San Mateo,Hillsborough,7,1,28000.0
+San Mateo,La Honda,1,1,2055.0
+San Mateo,La Honda,4,1,5300.0
+San Mateo,Menlo Park,0,71,3439.0
+San Mateo,Menlo Park,1,213,3931.0
+San Mateo,Menlo Park,2,159,5609.0
+San Mateo,Menlo Park,3,57,6895.0
+San Mateo,Menlo Park,4,4,5835.0
+San Mateo,Menlo Park,5,3,8895.0
+San Mateo,Millbrae,0,9,2883.0
+San Mateo,Millbrae,1,19,3450.0
+San Mateo,Millbrae,2,20,4281.5
+San Mateo,Millbrae,3,12,5816.5
+San Mateo,Millbrae,5,1,1199.0
+San Mateo,Montara,3,1,5450.0
+San Mateo,Moss Beach,0,2,3000.0
+San Mateo,Pacifica,0,1,2500.0
+San Mateo,Pacifica,1,17,2835.0
+San Mateo,Pacifica,2,30,3740.0
+San Mateo,Pacifica,3,11,6400.0
+San Mateo,Pacifica,4,8,7375.0
+San Mateo,Palo Alto,0,4,2345.0
+San Mateo,Palo Alto,1,1,2350.0
+San Mateo,Palo Alto,2,1,3200.0
+San Mateo,Palo Alto,3,2,7839.5
+San Mateo,Portola Valley,3,1,11310.0
+San Mateo,Redwood City,0,85,3385.0
+San Mateo,Redwood City,1,479,3680.0
+San Mateo,Redwood City,2,317,4747.0
+San Mateo,Redwood City,3,50,6500.0
+San Mateo,Redwood City,4,9,7500.0
+San Mateo,Redwood City,5,3,13500.0
+San Mateo,Redwood City,8,1,1695.0
+San Mateo,San Bruno,0,28,2916.0
+San Mateo,San Bruno,1,118,3290.0
+San Mateo,San Bruno,2,93,4014.0
+San Mateo,San Bruno,3,7,5225.0
+San Mateo,San Bruno,4,3,6200.0
+San Mateo,San Carlos,0,4,4804.5
+San Mateo,San Carlos,1,28,4056.5
+San Mateo,San Carlos,2,50,5249.0
+San Mateo,San Carlos,3,8,5836.5
+San Mateo,San Carlos,4,3,9000.0
+San Mateo,San Mateo,0,124,2925.0
+San Mateo,San Mateo,1,602,3390.0
+San Mateo,San Mateo,2,474,4204.5
+San Mateo,San Mateo,3,102,5300.0
+San Mateo,San Mateo,4,2,8200.0
+San Mateo,South San Francisco,0,21,3173.0
+San Mateo,South San Francisco,1,200,3604.0
+San Mateo,South San Francisco,2,126,4528.5
+San Mateo,South San Francisco,3,11,5370.0
+San Mateo,South San Francisco,4,4,6250.0
+San Mateo,South San Francisco,5,1,7000.0
+San Mateo,Woodside,1,1,2650.0
+San Mateo,Woodside,2,1,25000.0
+San Mateo,Woodside,4,1,9500.0
+San Mateo,Woodside,6,1,40000.0
+Santa Clara,Campbell,0,29,2237.0
+Santa Clara,Campbell,1,235,2819.0
+Santa Clara,Campbell,2,215,3400.0
+Santa Clara,Campbell,3,30,4750.0
+Santa Clara,Campbell,4,2,10243.5
+Santa Clara,Campbell,5,1,6800.0
+Santa Clara,Cupertino,0,16,2717.0
+Santa Clara,Cupertino,1,274,3290.5
+Santa Clara,Cupertino,2,357,4136.0
+Santa Clara,Cupertino,3,44,5312.5
+Santa Clara,Cupertino,4,10,6703.5
+Santa Clara,Cupertino,5,1,7100.0
+Santa Clara,Gilroy,0,3,1800.0
+Santa Clara,Gilroy,1,20,2325.0
+Santa Clara,Gilroy,2,48,2717.5
+Santa Clara,Gilroy,3,4,3697.5
+Santa Clara,Gilroy,4,15,4495.0
+Santa Clara,Gilroy,5,1,1200.0
+Santa Clara,Los Altos,0,2,2347.5
+Santa Clara,Los Altos,1,9,3395.0
+Santa Clara,Los Altos,2,10,5222.5
+Santa Clara,Los Altos,3,2,14875.0
+Santa Clara,Los Altos,4,4,11950.0
+Santa Clara,Los Altos,5,3,18000.0
+Santa Clara,Los Altos,6,1,20000.0
+Santa Clara,Los Altos Hills,5,1,38000.0
+Santa Clara,Los Altos Hills,6,1,8000.0
+Santa Clara,Los Altos Hills,7,1,22500.0
+Santa Clara,Los Gatos,0,5,3208.0
+Santa Clara,Los Gatos,1,47,3352.0
+Santa Clara,Los Gatos,2,41,3895.0
+Santa Clara,Los Gatos,3,17,5000.0
+Santa Clara,Los Gatos,4,5,6200.0
+Santa Clara,Los Gatos,5,3,14000.0
+Santa Clara,Milpitas,0,8,2617.0
+Santa Clara,Milpitas,1,326,3012.0
+Santa Clara,Milpitas,2,295,3543.0
+Santa Clara,Milpitas,3,44,4050.5
+Santa Clara,Milpitas,4,7,4995.0
+Santa Clara,Milpitas,5,2,4989.0
+Santa Clara,Milpitas,8,1,1175.0
+Santa Clara,Monte Sereno,1,1,1400.0
+Santa Clara,Monte Sereno,5,1,17000.0
+Santa Clara,Morgan Hill,0,1,1700.0
+Santa Clara,Morgan Hill,1,58,3117.0
+Santa Clara,Morgan Hill,2,100,3664.0
+Santa Clara,Morgan Hill,3,13,4411.0
+Santa Clara,Morgan Hill,4,5,4200.0
+Santa Clara,Morgan Hill,5,3,5795.0
+Santa Clara,Mountain View,0,158,3633.5
+Santa Clara,Mountain View,1,902,4050.0
+Santa Clara,Mountain View,2,579,5300.0
+Santa Clara,Mountain View,3,56,5560.0
+Santa Clara,Mountain View,4,9,7000.0
+Santa Clara,Mountain View,5,1,7800.0
+Santa Clara,Palo Alto,0,41,3407.0
+Santa Clara,Palo Alto,1,93,3075.0
+Santa Clara,Palo Alto,2,89,3800.0
+Santa Clara,Palo Alto,3,22,7030.0
+Santa Clara,Palo Alto,4,7,8800.0
+Santa Clara,Palo Alto,5,5,15250.0
+Santa Clara,Palo Alto,6,1,20000.0
+Santa Clara,Palo Alto,7,1,48000.0
+Santa Clara,San Jose,0,739,2692.0
+Santa Clara,San Jose,1,3972,3052.5
+Santa Clara,San Jose,2,3531,3640.0
+Santa Clara,San Jose,3,436,4476.0
+Santa Clara,San Jose,4,121,5000.0
+Santa Clara,San Jose,5,29,5595.0
+Santa Clara,San Jose,6,2,1700.0
+Santa Clara,San Jose,8,1,1000.0
+Santa Clara,San Jose,11,1,99999.0
+Santa Clara,San Martin,1,1,2200.0
+Santa Clara,Santa Clara,0,158,3295.0
+Santa Clara,Santa Clara,1,1456,3568.5
+Santa Clara,Santa Clara,2,1218,4434.5
+Santa Clara,Santa Clara,3,109,5200.0
+Santa Clara,Santa Clara,4,21,5700.0
+Santa Clara,Santa Clara,5,2,13497.5
+Santa Clara,Santa Clara,6,2,13247.5
+Santa Clara,Saratoga,0,3,2500.0
+Santa Clara,Saratoga,1,4,3250.0
+Santa Clara,Saratoga,2,4,3747.5
+Santa Clara,Saratoga,3,5,5500.0
+Santa Clara,Saratoga,4,6,8950.0
+Santa Clara,Saratoga,5,1,10450.0
+Santa Clara,Sunnyvale,0,157,2403.0
+Santa Clara,Sunnyvale,1,1209,3356.0
+Santa Clara,Sunnyvale,2,982,4047.5
+Santa Clara,Sunnyvale,3,79,4995.0
+Santa Clara,Sunnyvale,4,9,5700.0
+Santa Clara,Sunnyvale,5,1,8000.0
+Solano,Benicia,0,8,1933.0
+Solano,Benicia,1,48,2239.0
+Solano,Benicia,2,42,2660.0
+Solano,Benicia,3,14,2598.0
+Solano,Benicia,4,5,4695.0
+Solano,Davis,3,1,3300.0
+Solano,Dixon,1,1,1825.0
+Solano,Dixon,2,32,2998.0
+Solano,Dixon,3,37,3399.0
+Solano,Dixon,4,3,3200.0
+Solano,Dixon,5,2,3997.5
+Solano,Fairfield,0,19,2035.0
+Solano,Fairfield,1,289,2088.0
+Solano,Fairfield,2,375,2314.0
+Solano,Fairfield,3,56,3099.5
+Solano,Fairfield,4,28,3465.0
+Solano,Fairfield,5,9,4000.0
+Solano,Rio Vista,1,3,1395.0
+Solano,Rio Vista,2,4,2575.0
+Solano,Rio Vista,3,5,2610.0
+Solano,Suisun City,1,49,2025.0
+Solano,Suisun City,2,95,2157.0
+Solano,Suisun City,3,6,3122.5
+Solano,Suisun City,4,4,3007.5
+Solano,Unincorporated,4,1,3000.0
+Solano,Vacaville,0,20,1989.0
+Solano,Vacaville,1,322,2160.5
+Solano,Vacaville,2,482,2508.5
+Solano,Vacaville,3,129,3250.0
+Solano,Vacaville,4,32,3825.0
+Solano,Vacaville,5,4,3507.5
+Solano,Vallejo,0,16,1290.0
+Solano,Vallejo,1,180,1844.0
+Solano,Vallejo,2,195,2178.0
+Solano,Vallejo,3,48,2925.0
+Solano,Vallejo,4,22,3425.0
+Solano,Vallejo,5,2,4550.0
+Solano,Vallejo,6,1,4500.0
+Sonoma,Bodega,3,1,3375.0
+Sonoma,Bodega Bay,3,2,3425.0
+Sonoma,Calistoga,1,1,2450.0
+Sonoma,Calistoga,4,1,6750.0
+Sonoma,Cazadero,2,2,2900.0
+Sonoma,Cazadero,3,1,2200.0
+Sonoma,Cloverdale,0,2,1500.0
+Sonoma,Cloverdale,1,2,1800.0
+Sonoma,Cloverdale,2,5,2300.0
+Sonoma,Cloverdale,3,7,2795.0
+Sonoma,Cotati,1,3,1850.0
+Sonoma,Cotati,2,5,2175.0
+Sonoma,Cotati,3,2,3500.0
+Sonoma,Cotati,4,2,5400.0
+Sonoma,Forestville,1,1,1900.0
+Sonoma,Forestville,2,2,2200.0
+Sonoma,Geyserville,3,1,6000.0
+Sonoma,Geyserville,5,1,29000.0
+Sonoma,Glen Ellen,1,4,3045.5
+Sonoma,Glen Ellen,2,2,3075.0
+Sonoma,Glen Ellen,3,2,5250.0
+Sonoma,Glen Ellen,4,3,12000.0
+Sonoma,Guerneville,1,4,1762.5
+Sonoma,Guerneville,2,3,2750.0
+Sonoma,Guerneville,3,3,3500.0
+Sonoma,Healdsburg,1,3,2400.0
+Sonoma,Healdsburg,2,10,4250.0
+Sonoma,Healdsburg,3,9,7500.0
+Sonoma,Healdsburg,4,4,8650.0
+Sonoma,Healdsburg,5,1,19500.0
+Sonoma,Jenner,1,1,5500.0
+Sonoma,Kenwood,2,1,2038.0
+Sonoma,Kenwood,3,2,9475.0
+Sonoma,Kenwood,4,1,3800.0
+Sonoma,Monte Rio,2,2,4250.0
+Sonoma,Monte Rio,3,1,3000.0
+Sonoma,Occidental,0,1,1400.0
+Sonoma,Penngrove,1,1,2700.0
+Sonoma,Penngrove,2,1,3700.0
+Sonoma,Penngrove,4,1,5950.0
+Sonoma,Petaluma,0,27,2408.0
+Sonoma,Petaluma,1,198,2517.0
+Sonoma,Petaluma,2,280,2829.5
+Sonoma,Petaluma,3,31,3750.0
+Sonoma,Petaluma,4,7,3850.0
+Sonoma,Rio Nido,0,1,1625.0
+Sonoma,Rohnert Park,0,4,1742.5
+Sonoma,Rohnert Park,1,227,2195.0
+Sonoma,Rohnert Park,2,208,2424.0
+Sonoma,Rohnert Park,3,31,3413.0
+Sonoma,Rohnert Park,4,6,3950.0
+Sonoma,Rohnert Park,6,1,4750.0
+Sonoma,Santa Rosa,0,40,2495.0
+Sonoma,Santa Rosa,1,594,2280.0
+Sonoma,Santa Rosa,2,639,2675.0
+Sonoma,Santa Rosa,3,142,3299.5
+Sonoma,Santa Rosa,4,17,3950.0
+Sonoma,Santa Rosa,5,3,1500.0
+Sonoma,Santa Rosa,7,1,75000.0
+Sonoma,Santa Rosa,12,1,60000.0
+Sonoma,Sebastopol,0,5,2000.0
+Sonoma,Sebastopol,1,6,2300.0
+Sonoma,Sebastopol,2,6,4100.0
+Sonoma,Sebastopol,3,5,5150.0
+Sonoma,Sebastopol,4,1,4900.0
+Sonoma,Sonoma,0,2,1500.0
+Sonoma,Sonoma,1,7,1995.0
+Sonoma,Sonoma,2,30,2947.5
+Sonoma,Sonoma,3,20,5197.5
+Sonoma,Sonoma,4,10,10250.0
+Sonoma,Sonoma,5,3,22000.0
+Sonoma,The Sea Ranch,2,1,4500.0
+Sonoma,Windsor,0,1,1550.0
+Sonoma,Windsor,1,4,2935.0
+Sonoma,Windsor,2,11,2595.0
+Sonoma,Windsor,3,11,3575.0
+Sonoma,Windsor,4,4,2425.0
+Sonoma,Windsor,6,2,4400.0

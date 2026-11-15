@@ -1,0 +1,17 @@
+occupation,median_annual_salary_all,salary_q1_all,salary_q3_all,n_valid_salary_all,median_annual_salary_entry_signal,salary_q1_entry_signal,salary_q3_entry_signal,n_valid_salary_entry_signal
+Retail & customer service,44720.0,41600.0,55120.0,1208,43680.0,38480.0,51719.2,53
+Food service,45760.0,41600.0,52676.0,1129,41600.0,38441.0,50866.4,36
+Personal care & service,51792.0,42640.0,69212.0,202,49920.0,41600.0,60000.0,5
+Protective & building services,52000.0,42335.8,74474.4,408,61443.2,56830.0,119865.2,55
+"Transportation, warehouse & logistics",52000.0,46800.0,65870.625,698,55229.2,53235.0,79702.52,48
+Office & administrative support,60000.0,49254.4,75587.135,840,60186.0,47294.0,73026.2,56
+Education & childcare,60320.0,50960.0,83846.25,506,60320.0,54080.0,72500.0,17
+Care & social services,61568.0,52000.0,94127.0,536,55900.0,49400.0,68900.0,54
+"Skilled trades, maintenance & repair",62400.0,50960.0,81109.6,1358,54080.0,45760.0,68070.0,111
+Other / unclassified,70000.0,51480.0,114400.0,1461,60320.0,52000.0,78436.8,93
+Management (general),85600.0,60320.0,144054.5225,719,57260.0,50000.0,70500.0,28
+Sales,87500.0,67600.0,125000.0,901,70700.0,59900.0,90000.0,59
+"Business, finance & HR",95868.0,67000.0,140000.0,1889,71456.0,57636.8,87543.0,72
+Healthcare practitioners & support,104000.0,62400.0,150397.0,2426,95680.0,52478.4,142802.4,121
+Engineering & science (non-software),138750.0,95000.0,184375.0,1258,85000.0,69025.0,109200.0,56
+"Software, data & IT",183650.0,150000.0,225000.0,2912,121000.0,93600.0,145600.0,45

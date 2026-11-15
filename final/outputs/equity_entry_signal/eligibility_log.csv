@@ -1,0 +1,2191 @@
+city,occupation,eligible,exclusion_reason
+Alameda,"Business, finance & HR",True,
+Alameda,Care & social services,True,
+Alameda,Education & childcare,True,
+Alameda,Engineering & science (non-software),True,
+Alameda,Food service,True,
+Alameda,Healthcare practitioners & support,True,
+Alameda,Management (general),True,
+Alameda,Office & administrative support,True,
+Alameda,Personal care & service,False,salary_insufficient;
+Alameda,Protective & building services,True,
+Alameda,Retail & customer service,True,
+Alameda,Sales,True,
+Alameda,"Skilled trades, maintenance & repair",True,
+Alameda,"Software, data & IT",True,
+Alameda,"Transportation, warehouse & logistics",True,
+Alamo,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Alamo,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Albany,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Albany,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+American Canyon,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Angwin,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Antioch,"Business, finance & HR",True,
+Antioch,Care & social services,True,
+Antioch,Education & childcare,True,
+Antioch,Engineering & science (non-software),True,
+Antioch,Food service,True,
+Antioch,Healthcare practitioners & support,True,
+Antioch,Management (general),True,
+Antioch,Office & administrative support,True,
+Antioch,Personal care & service,False,salary_insufficient;
+Antioch,Protective & building services,True,
+Antioch,Retail & customer service,True,
+Antioch,Sales,True,
+Antioch,"Skilled trades, maintenance & repair",True,
+Antioch,"Software, data & IT",True,
+Antioch,"Transportation, warehouse & logistics",True,
+Atherton,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Atherton,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Point,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Bay Pt,"Business, finance & HR",False,rent_1br_insufficient;
+Bay Pt,Care & social services,False,rent_1br_insufficient;
+Bay Pt,Education & childcare,False,rent_1br_insufficient;
+Bay Pt,Engineering & science (non-software),False,rent_1br_insufficient;
+Bay Pt,Food service,False,rent_1br_insufficient;
+Bay Pt,Healthcare practitioners & support,False,rent_1br_insufficient;
+Bay Pt,Management (general),False,rent_1br_insufficient;
+Bay Pt,Office & administrative support,False,rent_1br_insufficient;
+Bay Pt,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+Bay Pt,Protective & building services,False,rent_1br_insufficient;
+Bay Pt,Retail & customer service,False,rent_1br_insufficient;
+Bay Pt,Sales,False,rent_1br_insufficient;
+Bay Pt,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+Bay Pt,"Software, data & IT",False,rent_1br_insufficient;
+Bay Pt,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+Belmont,"Business, finance & HR",True,
+Belmont,Care & social services,True,
+Belmont,Education & childcare,True,
+Belmont,Engineering & science (non-software),True,
+Belmont,Food service,True,
+Belmont,Healthcare practitioners & support,True,
+Belmont,Management (general),True,
+Belmont,Office & administrative support,True,
+Belmont,Personal care & service,False,salary_insufficient;
+Belmont,Protective & building services,True,
+Belmont,Retail & customer service,True,
+Belmont,Sales,True,
+Belmont,"Skilled trades, maintenance & repair",True,
+Belmont,"Software, data & IT",True,
+Belmont,"Transportation, warehouse & logistics",True,
+Belvedere,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Belvedere Tiburon,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Benicia,"Business, finance & HR",True,
+Benicia,Care & social services,True,
+Benicia,Education & childcare,True,
+Benicia,Engineering & science (non-software),True,
+Benicia,Food service,True,
+Benicia,Healthcare practitioners & support,True,
+Benicia,Management (general),True,
+Benicia,Office & administrative support,True,
+Benicia,Personal care & service,False,salary_insufficient;
+Benicia,Protective & building services,True,
+Benicia,Retail & customer service,True,
+Benicia,Sales,True,
+Benicia,"Skilled trades, maintenance & repair",True,
+Benicia,"Software, data & IT",True,
+Benicia,"Transportation, warehouse & logistics",True,
+Berkeley,"Business, finance & HR",True,
+Berkeley,Care & social services,True,
+Berkeley,Education & childcare,True,
+Berkeley,Engineering & science (non-software),True,
+Berkeley,Food service,True,
+Berkeley,Healthcare practitioners & support,True,
+Berkeley,Management (general),True,
+Berkeley,Office & administrative support,True,
+Berkeley,Personal care & service,False,salary_insufficient;
+Berkeley,Protective & building services,True,
+Berkeley,Retail & customer service,True,
+Berkeley,Sales,True,
+Berkeley,"Skilled trades, maintenance & repair",True,
+Berkeley,"Software, data & IT",True,
+Berkeley,"Transportation, warehouse & logistics",True,
+Bethel Island,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Bethel Island,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Bodega Bay,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Brentwood,"Business, finance & HR",True,
+Brentwood,Care & social services,True,
+Brentwood,Education & childcare,True,
+Brentwood,Engineering & science (non-software),True,
+Brentwood,Food service,True,
+Brentwood,Healthcare practitioners & support,True,
+Brentwood,Management (general),True,
+Brentwood,Office & administrative support,True,
+Brentwood,Personal care & service,False,salary_insufficient;
+Brentwood,Protective & building services,True,
+Brentwood,Retail & customer service,True,
+Brentwood,Sales,True,
+Brentwood,"Skilled trades, maintenance & repair",True,
+Brentwood,"Software, data & IT",True,
+Brentwood,"Transportation, warehouse & logistics",True,
+Brisbane,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Brisbane,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Burlingame,"Business, finance & HR",True,
+Burlingame,Care & social services,True,
+Burlingame,Education & childcare,True,
+Burlingame,Engineering & science (non-software),True,
+Burlingame,Food service,True,
+Burlingame,Healthcare practitioners & support,True,
+Burlingame,Management (general),True,
+Burlingame,Office & administrative support,True,
+Burlingame,Personal care & service,False,salary_insufficient;
+Burlingame,Protective & building services,True,
+Burlingame,Retail & customer service,True,
+Burlingame,Sales,True,
+Burlingame,"Skilled trades, maintenance & repair",True,
+Burlingame,"Software, data & IT",True,
+Burlingame,"Transportation, warehouse & logistics",True,
+Calistoga,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Calistoga,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Campbell,"Business, finance & HR",True,
+Campbell,Care & social services,True,
+Campbell,Education & childcare,True,
+Campbell,Engineering & science (non-software),True,
+Campbell,Food service,True,
+Campbell,Healthcare practitioners & support,True,
+Campbell,Management (general),True,
+Campbell,Office & administrative support,True,
+Campbell,Personal care & service,False,salary_insufficient;
+Campbell,Protective & building services,True,
+Campbell,Retail & customer service,True,
+Campbell,Sales,True,
+Campbell,"Skilled trades, maintenance & repair",True,
+Campbell,"Software, data & IT",True,
+Campbell,"Transportation, warehouse & logistics",True,
+Castro Valley,"Business, finance & HR",True,
+Castro Valley,Care & social services,True,
+Castro Valley,Education & childcare,True,
+Castro Valley,Engineering & science (non-software),True,
+Castro Valley,Food service,True,
+Castro Valley,Healthcare practitioners & support,True,
+Castro Valley,Management (general),True,
+Castro Valley,Office & administrative support,True,
+Castro Valley,Personal care & service,False,salary_insufficient;
+Castro Valley,Protective & building services,True,
+Castro Valley,Retail & customer service,True,
+Castro Valley,Sales,True,
+Castro Valley,"Skilled trades, maintenance & repair",True,
+Castro Valley,"Software, data & IT",True,
+Castro Valley,"Transportation, warehouse & logistics",True,
+Cazadero,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Cazadero,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Clayton,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Cloverdale,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Colma,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Colma,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Concord,"Business, finance & HR",True,
+Concord,Care & social services,True,
+Concord,Education & childcare,True,
+Concord,Engineering & science (non-software),True,
+Concord,Food service,True,
+Concord,Healthcare practitioners & support,True,
+Concord,Management (general),True,
+Concord,Office & administrative support,True,
+Concord,Personal care & service,False,salary_insufficient;
+Concord,Protective & building services,True,
+Concord,Retail & customer service,True,
+Concord,Sales,True,
+Concord,"Skilled trades, maintenance & repair",True,
+Concord,"Software, data & IT",True,
+Concord,"Transportation, warehouse & logistics",True,
+Corte Madera,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Corte Madera,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Cotati,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Crockett,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Cupertino,"Business, finance & HR",True,
+Cupertino,Care & social services,True,
+Cupertino,Education & childcare,True,
+Cupertino,Engineering & science (non-software),True,
+Cupertino,Food service,True,
+Cupertino,Healthcare practitioners & support,True,
+Cupertino,Management (general),True,
+Cupertino,Office & administrative support,True,
+Cupertino,Personal care & service,False,salary_insufficient;
+Cupertino,Protective & building services,True,
+Cupertino,Retail & customer service,True,
+Cupertino,Sales,True,
+Cupertino,"Skilled trades, maintenance & repair",True,
+Cupertino,"Software, data & IT",True,
+Cupertino,"Transportation, warehouse & logistics",True,
+Daly City,"Business, finance & HR",True,
+Daly City,Care & social services,True,
+Daly City,Education & childcare,True,
+Daly City,Engineering & science (non-software),True,
+Daly City,Food service,True,
+Daly City,Healthcare practitioners & support,True,
+Daly City,Management (general),True,
+Daly City,Office & administrative support,True,
+Daly City,Personal care & service,False,salary_insufficient;
+Daly City,Protective & building services,True,
+Daly City,Retail & customer service,True,
+Daly City,Sales,True,
+Daly City,"Skilled trades, maintenance & repair",True,
+Daly City,"Software, data & IT",True,
+Daly City,"Transportation, warehouse & logistics",True,
+Danville,"Business, finance & HR",True,
+Danville,Care & social services,True,
+Danville,Education & childcare,True,
+Danville,Engineering & science (non-software),True,
+Danville,Food service,True,
+Danville,Healthcare practitioners & support,True,
+Danville,Management (general),True,
+Danville,Office & administrative support,True,
+Danville,Personal care & service,False,salary_insufficient;
+Danville,Protective & building services,True,
+Danville,Retail & customer service,True,
+Danville,Sales,True,
+Danville,"Skilled trades, maintenance & repair",True,
+Danville,"Software, data & IT",True,
+Danville,"Transportation, warehouse & logistics",True,
+Davis,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Davis,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Davis,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Diablo,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Discovery Bay,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Dixon,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Dublin,"Business, finance & HR",True,
+Dublin,Care & social services,True,
+Dublin,Education & childcare,True,
+Dublin,Engineering & science (non-software),True,
+Dublin,Food service,True,
+Dublin,Healthcare practitioners & support,True,
+Dublin,Management (general),True,
+Dublin,Office & administrative support,True,
+Dublin,Personal care & service,False,salary_insufficient;
+Dublin,Protective & building services,True,
+Dublin,Retail & customer service,True,
+Dublin,Sales,True,
+Dublin,"Skilled trades, maintenance & repair",True,
+Dublin,"Software, data & IT",True,
+Dublin,"Transportation, warehouse & logistics",True,
+East Palo Alto,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+East Palo Alto,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+El Cerrito,"Business, finance & HR",True,
+El Cerrito,Care & social services,True,
+El Cerrito,Education & childcare,True,
+El Cerrito,Engineering & science (non-software),True,
+El Cerrito,Food service,True,
+El Cerrito,Healthcare practitioners & support,True,
+El Cerrito,Management (general),True,
+El Cerrito,Office & administrative support,True,
+El Cerrito,Personal care & service,False,salary_insufficient;
+El Cerrito,Protective & building services,True,
+El Cerrito,Retail & customer service,True,
+El Cerrito,Sales,True,
+El Cerrito,"Skilled trades, maintenance & repair",True,
+El Cerrito,"Software, data & IT",True,
+El Cerrito,"Transportation, warehouse & logistics",True,
+El Granada,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+El Granada,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+El Sobrante,"Business, finance & HR",False,rent_1br_insufficient;
+El Sobrante,Care & social services,False,rent_1br_insufficient;
+El Sobrante,Education & childcare,False,rent_1br_insufficient;
+El Sobrante,Engineering & science (non-software),False,rent_1br_insufficient;
+El Sobrante,Food service,False,rent_1br_insufficient;
+El Sobrante,Healthcare practitioners & support,False,rent_1br_insufficient;
+El Sobrante,Management (general),False,rent_1br_insufficient;
+El Sobrante,Office & administrative support,False,rent_1br_insufficient;
+El Sobrante,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+El Sobrante,Protective & building services,False,rent_1br_insufficient;
+El Sobrante,Retail & customer service,False,rent_1br_insufficient;
+El Sobrante,Sales,False,rent_1br_insufficient;
+El Sobrante,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+El Sobrante,"Software, data & IT",False,rent_1br_insufficient;
+El Sobrante,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+Emeryville,"Business, finance & HR",True,
+Emeryville,Care & social services,True,
+Emeryville,Education & childcare,True,
+Emeryville,Engineering & science (non-software),True,
+Emeryville,Food service,True,
+Emeryville,Healthcare practitioners & support,True,
+Emeryville,Management (general),True,
+Emeryville,Office & administrative support,True,
+Emeryville,Personal care & service,False,salary_insufficient;
+Emeryville,Protective & building services,True,
+Emeryville,Retail & customer service,True,
+Emeryville,Sales,True,
+Emeryville,"Skilled trades, maintenance & repair",True,
+Emeryville,"Software, data & IT",True,
+Emeryville,"Transportation, warehouse & logistics",True,
+Fairfax,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfax,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Fairfield,"Business, finance & HR",True,
+Fairfield,Care & social services,True,
+Fairfield,Education & childcare,True,
+Fairfield,Engineering & science (non-software),True,
+Fairfield,Food service,True,
+Fairfield,Healthcare practitioners & support,True,
+Fairfield,Management (general),True,
+Fairfield,Office & administrative support,True,
+Fairfield,Personal care & service,False,salary_insufficient;
+Fairfield,Protective & building services,True,
+Fairfield,Retail & customer service,True,
+Fairfield,Sales,True,
+Fairfield,"Skilled trades, maintenance & repair",True,
+Fairfield,"Software, data & IT",True,
+Fairfield,"Transportation, warehouse & logistics",True,
+Forest Knolls,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Forest Knolls,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Forestville,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Foster City,"Business, finance & HR",True,
+Foster City,Care & social services,True,
+Foster City,Education & childcare,True,
+Foster City,Engineering & science (non-software),True,
+Foster City,Food service,True,
+Foster City,Healthcare practitioners & support,True,
+Foster City,Management (general),True,
+Foster City,Office & administrative support,True,
+Foster City,Personal care & service,False,salary_insufficient;
+Foster City,Protective & building services,True,
+Foster City,Retail & customer service,True,
+Foster City,Sales,True,
+Foster City,"Skilled trades, maintenance & repair",True,
+Foster City,"Software, data & IT",True,
+Foster City,"Transportation, warehouse & logistics",True,
+Fremont,"Business, finance & HR",True,
+Fremont,Care & social services,True,
+Fremont,Education & childcare,True,
+Fremont,Engineering & science (non-software),True,
+Fremont,Food service,True,
+Fremont,Healthcare practitioners & support,True,
+Fremont,Management (general),True,
+Fremont,Office & administrative support,True,
+Fremont,Personal care & service,False,salary_insufficient;
+Fremont,Protective & building services,True,
+Fremont,Retail & customer service,True,
+Fremont,Sales,True,
+Fremont,"Skilled trades, maintenance & repair",True,
+Fremont,"Software, data & IT",True,
+Fremont,"Transportation, warehouse & logistics",True,
+Geyserville,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Geyserville,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Gilroy,"Business, finance & HR",False,rent_1br_insufficient;
+Gilroy,Care & social services,False,rent_1br_insufficient;
+Gilroy,Education & childcare,False,rent_1br_insufficient;
+Gilroy,Engineering & science (non-software),False,rent_1br_insufficient;
+Gilroy,Food service,False,rent_1br_insufficient;
+Gilroy,Healthcare practitioners & support,False,rent_1br_insufficient;
+Gilroy,Management (general),False,rent_1br_insufficient;
+Gilroy,Office & administrative support,False,rent_1br_insufficient;
+Gilroy,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+Gilroy,Protective & building services,False,rent_1br_insufficient;
+Gilroy,Retail & customer service,False,rent_1br_insufficient;
+Gilroy,Sales,False,rent_1br_insufficient;
+Gilroy,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+Gilroy,"Software, data & IT",False,rent_1br_insufficient;
+Gilroy,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+Glen Ellen,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Glen Ellen,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Greenbrae,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Guerneville,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Half Moon Bay,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Hayward,"Business, finance & HR",True,
+Hayward,Care & social services,True,
+Hayward,Education & childcare,True,
+Hayward,Engineering & science (non-software),True,
+Hayward,Food service,True,
+Hayward,Healthcare practitioners & support,True,
+Hayward,Management (general),True,
+Hayward,Office & administrative support,True,
+Hayward,Personal care & service,False,salary_insufficient;
+Hayward,Protective & building services,True,
+Hayward,Retail & customer service,True,
+Hayward,Sales,True,
+Hayward,"Skilled trades, maintenance & repair",True,
+Hayward,"Software, data & IT",True,
+Hayward,"Transportation, warehouse & logistics",True,
+Healdsburg,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Healdsburg,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Hercules,"Business, finance & HR",False,rent_1br_insufficient;
+Hercules,Care & social services,False,rent_1br_insufficient;
+Hercules,Education & childcare,False,rent_1br_insufficient;
+Hercules,Engineering & science (non-software),False,rent_1br_insufficient;
+Hercules,Food service,False,rent_1br_insufficient;
+Hercules,Healthcare practitioners & support,False,rent_1br_insufficient;
+Hercules,Management (general),False,rent_1br_insufficient;
+Hercules,Office & administrative support,False,rent_1br_insufficient;
+Hercules,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+Hercules,Protective & building services,False,rent_1br_insufficient;
+Hercules,Retail & customer service,False,rent_1br_insufficient;
+Hercules,Sales,False,rent_1br_insufficient;
+Hercules,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+Hercules,"Software, data & IT",False,rent_1br_insufficient;
+Hercules,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+Hillsborough,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Hillsborough,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Inverness,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Jenner,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Kensington,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Kentfield,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Kenwood,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+La Honda,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Lafayette,"Business, finance & HR",False,rent_1br_insufficient;
+Lafayette,Care & social services,False,rent_1br_insufficient;
+Lafayette,Education & childcare,False,rent_1br_insufficient;
+Lafayette,Engineering & science (non-software),False,rent_1br_insufficient;
+Lafayette,Food service,False,rent_1br_insufficient;
+Lafayette,Healthcare practitioners & support,False,rent_1br_insufficient;
+Lafayette,Management (general),False,rent_1br_insufficient;
+Lafayette,Office & administrative support,False,rent_1br_insufficient;
+Lafayette,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+Lafayette,Protective & building services,False,rent_1br_insufficient;
+Lafayette,Retail & customer service,False,rent_1br_insufficient;
+Lafayette,Sales,False,rent_1br_insufficient;
+Lafayette,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+Lafayette,"Software, data & IT",False,rent_1br_insufficient;
+Lafayette,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+Larkspur,"Business, finance & HR",True,
+Larkspur,Care & social services,True,
+Larkspur,Education & childcare,True,
+Larkspur,Engineering & science (non-software),True,
+Larkspur,Food service,True,
+Larkspur,Healthcare practitioners & support,True,
+Larkspur,Management (general),True,
+Larkspur,Office & administrative support,True,
+Larkspur,Personal care & service,False,salary_insufficient;
+Larkspur,Protective & building services,True,
+Larkspur,Retail & customer service,True,
+Larkspur,Sales,True,
+Larkspur,"Skilled trades, maintenance & repair",True,
+Larkspur,"Software, data & IT",True,
+Larkspur,"Transportation, warehouse & logistics",True,
+Livermore,"Business, finance & HR",True,
+Livermore,Care & social services,True,
+Livermore,Education & childcare,True,
+Livermore,Engineering & science (non-software),True,
+Livermore,Food service,True,
+Livermore,Healthcare practitioners & support,True,
+Livermore,Management (general),True,
+Livermore,Office & administrative support,True,
+Livermore,Personal care & service,False,salary_insufficient;
+Livermore,Protective & building services,True,
+Livermore,Retail & customer service,True,
+Livermore,Sales,True,
+Livermore,"Skilled trades, maintenance & repair",True,
+Livermore,"Software, data & IT",True,
+Livermore,"Transportation, warehouse & logistics",True,
+Los Altos,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Los Altos,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Los Gatos,"Business, finance & HR",True,
+Los Gatos,Care & social services,True,
+Los Gatos,Education & childcare,True,
+Los Gatos,Engineering & science (non-software),True,
+Los Gatos,Food service,True,
+Los Gatos,Healthcare practitioners & support,True,
+Los Gatos,Management (general),True,
+Los Gatos,Office & administrative support,True,
+Los Gatos,Personal care & service,False,salary_insufficient;
+Los Gatos,Protective & building services,True,
+Los Gatos,Retail & customer service,True,
+Los Gatos,Sales,True,
+Los Gatos,"Skilled trades, maintenance & repair",True,
+Los Gatos,"Software, data & IT",True,
+Los Gatos,"Transportation, warehouse & logistics",True,
+Martinez,"Business, finance & HR",True,
+Martinez,Care & social services,True,
+Martinez,Education & childcare,True,
+Martinez,Engineering & science (non-software),True,
+Martinez,Food service,True,
+Martinez,Healthcare practitioners & support,True,
+Martinez,Management (general),True,
+Martinez,Office & administrative support,True,
+Martinez,Personal care & service,False,salary_insufficient;
+Martinez,Protective & building services,True,
+Martinez,Retail & customer service,True,
+Martinez,Sales,True,
+Martinez,"Skilled trades, maintenance & repair",True,
+Martinez,"Software, data & IT",True,
+Martinez,"Transportation, warehouse & logistics",True,
+Menlo Park,"Business, finance & HR",True,
+Menlo Park,Care & social services,True,
+Menlo Park,Education & childcare,True,
+Menlo Park,Engineering & science (non-software),True,
+Menlo Park,Food service,True,
+Menlo Park,Healthcare practitioners & support,True,
+Menlo Park,Management (general),True,
+Menlo Park,Office & administrative support,True,
+Menlo Park,Personal care & service,False,salary_insufficient;
+Menlo Park,Protective & building services,True,
+Menlo Park,Retail & customer service,True,
+Menlo Park,Sales,True,
+Menlo Park,"Skilled trades, maintenance & repair",True,
+Menlo Park,"Software, data & IT",True,
+Menlo Park,"Transportation, warehouse & logistics",True,
+Mill Valley,"Business, finance & HR",False,rent_1br_insufficient;
+Mill Valley,Care & social services,False,rent_1br_insufficient;
+Mill Valley,Education & childcare,False,rent_1br_insufficient;
+Mill Valley,Engineering & science (non-software),False,rent_1br_insufficient;
+Mill Valley,Food service,False,rent_1br_insufficient;
+Mill Valley,Healthcare practitioners & support,False,rent_1br_insufficient;
+Mill Valley,Management (general),False,rent_1br_insufficient;
+Mill Valley,Office & administrative support,False,rent_1br_insufficient;
+Mill Valley,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+Mill Valley,Protective & building services,False,rent_1br_insufficient;
+Mill Valley,Retail & customer service,False,rent_1br_insufficient;
+Mill Valley,Sales,False,rent_1br_insufficient;
+Mill Valley,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+Mill Valley,"Software, data & IT",False,rent_1br_insufficient;
+Mill Valley,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+Millbrae,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Millbrae,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Milpitas,"Business, finance & HR",True,
+Milpitas,Care & social services,True,
+Milpitas,Education & childcare,True,
+Milpitas,Engineering & science (non-software),True,
+Milpitas,Food service,True,
+Milpitas,Healthcare practitioners & support,True,
+Milpitas,Management (general),True,
+Milpitas,Office & administrative support,True,
+Milpitas,Personal care & service,False,salary_insufficient;
+Milpitas,Protective & building services,True,
+Milpitas,Retail & customer service,True,
+Milpitas,Sales,True,
+Milpitas,"Skilled trades, maintenance & repair",True,
+Milpitas,"Software, data & IT",True,
+Milpitas,"Transportation, warehouse & logistics",True,
+Montara,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Montara,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Montara,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Rio,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Monte Sereno,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Moraga,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Morgan Hill,"Business, finance & HR",True,
+Morgan Hill,Care & social services,True,
+Morgan Hill,Education & childcare,True,
+Morgan Hill,Engineering & science (non-software),True,
+Morgan Hill,Food service,True,
+Morgan Hill,Healthcare practitioners & support,True,
+Morgan Hill,Management (general),True,
+Morgan Hill,Office & administrative support,True,
+Morgan Hill,Personal care & service,False,salary_insufficient;
+Morgan Hill,Protective & building services,True,
+Morgan Hill,Retail & customer service,True,
+Morgan Hill,Sales,True,
+Morgan Hill,"Skilled trades, maintenance & repair",True,
+Morgan Hill,"Software, data & IT",True,
+Morgan Hill,"Transportation, warehouse & logistics",True,
+Moss Beach,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Moss Beach,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain House,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Mountain View,"Business, finance & HR",True,
+Mountain View,Care & social services,True,
+Mountain View,Education & childcare,True,
+Mountain View,Engineering & science (non-software),True,
+Mountain View,Food service,True,
+Mountain View,Healthcare practitioners & support,True,
+Mountain View,Management (general),True,
+Mountain View,Office & administrative support,True,
+Mountain View,Personal care & service,False,salary_insufficient;
+Mountain View,Protective & building services,True,
+Mountain View,Retail & customer service,True,
+Mountain View,Sales,True,
+Mountain View,"Skilled trades, maintenance & repair",True,
+Mountain View,"Software, data & IT",True,
+Mountain View,"Transportation, warehouse & logistics",True,
+Napa,"Business, finance & HR",True,
+Napa,Care & social services,True,
+Napa,Education & childcare,True,
+Napa,Engineering & science (non-software),True,
+Napa,Food service,True,
+Napa,Healthcare practitioners & support,True,
+Napa,Management (general),True,
+Napa,Office & administrative support,True,
+Napa,Personal care & service,False,salary_insufficient;
+Napa,Protective & building services,True,
+Napa,Retail & customer service,True,
+Napa,Sales,True,
+Napa,"Skilled trades, maintenance & repair",True,
+Napa,"Software, data & IT",True,
+Napa,"Transportation, warehouse & logistics",True,
+Newark,"Business, finance & HR",True,
+Newark,Care & social services,True,
+Newark,Education & childcare,True,
+Newark,Engineering & science (non-software),True,
+Newark,Food service,True,
+Newark,Healthcare practitioners & support,True,
+Newark,Management (general),True,
+Newark,Office & administrative support,True,
+Newark,Personal care & service,False,salary_insufficient;
+Newark,Protective & building services,True,
+Newark,Retail & customer service,True,
+Newark,Sales,True,
+Newark,"Skilled trades, maintenance & repair",True,
+Newark,"Software, data & IT",True,
+Newark,"Transportation, warehouse & logistics",True,
+Nicasio,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Nicasio,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Novato,"Business, finance & HR",True,
+Novato,Care & social services,True,
+Novato,Education & childcare,True,
+Novato,Engineering & science (non-software),True,
+Novato,Food service,True,
+Novato,Healthcare practitioners & support,True,
+Novato,Management (general),True,
+Novato,Office & administrative support,True,
+Novato,Personal care & service,False,salary_insufficient;
+Novato,Protective & building services,True,
+Novato,Retail & customer service,True,
+Novato,Sales,True,
+Novato,"Skilled trades, maintenance & repair",True,
+Novato,"Software, data & IT",True,
+Novato,"Transportation, warehouse & logistics",True,
+Oakland,"Business, finance & HR",True,
+Oakland,Care & social services,True,
+Oakland,Education & childcare,True,
+Oakland,Engineering & science (non-software),True,
+Oakland,Food service,True,
+Oakland,Healthcare practitioners & support,True,
+Oakland,Management (general),True,
+Oakland,Office & administrative support,True,
+Oakland,Personal care & service,False,salary_insufficient;
+Oakland,Protective & building services,True,
+Oakland,Retail & customer service,True,
+Oakland,Sales,True,
+Oakland,"Skilled trades, maintenance & repair",True,
+Oakland,"Software, data & IT",True,
+Oakland,"Transportation, warehouse & logistics",True,
+Oakley,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Oakley,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Occidental,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Orinda,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Pacifica,"Business, finance & HR",False,rent_1br_insufficient;
+Pacifica,Care & social services,False,rent_1br_insufficient;
+Pacifica,Education & childcare,False,rent_1br_insufficient;
+Pacifica,Engineering & science (non-software),False,rent_1br_insufficient;
+Pacifica,Food service,False,rent_1br_insufficient;
+Pacifica,Healthcare practitioners & support,False,rent_1br_insufficient;
+Pacifica,Management (general),False,rent_1br_insufficient;
+Pacifica,Office & administrative support,False,rent_1br_insufficient;
+Pacifica,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+Pacifica,Protective & building services,False,rent_1br_insufficient;
+Pacifica,Retail & customer service,False,rent_1br_insufficient;
+Pacifica,Sales,False,rent_1br_insufficient;
+Pacifica,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+Pacifica,"Software, data & IT",False,rent_1br_insufficient;
+Pacifica,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+Palo Alto,"Business, finance & HR",True,
+Palo Alto,Care & social services,True,
+Palo Alto,Education & childcare,True,
+Palo Alto,Engineering & science (non-software),True,
+Palo Alto,Food service,True,
+Palo Alto,Healthcare practitioners & support,True,
+Palo Alto,Management (general),True,
+Palo Alto,Office & administrative support,True,
+Palo Alto,Personal care & service,False,salary_insufficient;
+Palo Alto,Protective & building services,True,
+Palo Alto,Retail & customer service,True,
+Palo Alto,Sales,True,
+Palo Alto,"Skilled trades, maintenance & repair",True,
+Palo Alto,"Software, data & IT",True,
+Palo Alto,"Transportation, warehouse & logistics",True,
+Penngrove,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Penngrove,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Petaluma,"Business, finance & HR",True,
+Petaluma,Care & social services,True,
+Petaluma,Education & childcare,True,
+Petaluma,Engineering & science (non-software),True,
+Petaluma,Food service,True,
+Petaluma,Healthcare practitioners & support,True,
+Petaluma,Management (general),True,
+Petaluma,Office & administrative support,True,
+Petaluma,Personal care & service,False,salary_insufficient;
+Petaluma,Protective & building services,True,
+Petaluma,Retail & customer service,True,
+Petaluma,Sales,True,
+Petaluma,"Skilled trades, maintenance & repair",True,
+Petaluma,"Software, data & IT",True,
+Petaluma,"Transportation, warehouse & logistics",True,
+Piedmont,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Piedmont,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Pinole,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Pittsburg,"Business, finance & HR",True,
+Pittsburg,Care & social services,True,
+Pittsburg,Education & childcare,True,
+Pittsburg,Engineering & science (non-software),True,
+Pittsburg,Food service,True,
+Pittsburg,Healthcare practitioners & support,True,
+Pittsburg,Management (general),True,
+Pittsburg,Office & administrative support,True,
+Pittsburg,Personal care & service,False,salary_insufficient;
+Pittsburg,Protective & building services,True,
+Pittsburg,Retail & customer service,True,
+Pittsburg,Sales,True,
+Pittsburg,"Skilled trades, maintenance & repair",True,
+Pittsburg,"Software, data & IT",True,
+Pittsburg,"Transportation, warehouse & logistics",True,
+Pleasant Hill,"Business, finance & HR",True,
+Pleasant Hill,Care & social services,True,
+Pleasant Hill,Education & childcare,True,
+Pleasant Hill,Engineering & science (non-software),True,
+Pleasant Hill,Food service,True,
+Pleasant Hill,Healthcare practitioners & support,True,
+Pleasant Hill,Management (general),True,
+Pleasant Hill,Office & administrative support,True,
+Pleasant Hill,Personal care & service,False,salary_insufficient;
+Pleasant Hill,Protective & building services,True,
+Pleasant Hill,Retail & customer service,True,
+Pleasant Hill,Sales,True,
+Pleasant Hill,"Skilled trades, maintenance & repair",True,
+Pleasant Hill,"Software, data & IT",True,
+Pleasant Hill,"Transportation, warehouse & logistics",True,
+Pleasanton,"Business, finance & HR",True,
+Pleasanton,Care & social services,True,
+Pleasanton,Education & childcare,True,
+Pleasanton,Engineering & science (non-software),True,
+Pleasanton,Food service,True,
+Pleasanton,Healthcare practitioners & support,True,
+Pleasanton,Management (general),True,
+Pleasanton,Office & administrative support,True,
+Pleasanton,Personal care & service,False,salary_insufficient;
+Pleasanton,Protective & building services,True,
+Pleasanton,Retail & customer service,True,
+Pleasanton,Sales,True,
+Pleasanton,"Skilled trades, maintenance & repair",True,
+Pleasanton,"Software, data & IT",True,
+Pleasanton,"Transportation, warehouse & logistics",True,
+Point Richmond,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Point Richmond,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Pope Valley,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Portola Valley,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Pt Richmond,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Redwood City,"Business, finance & HR",True,
+Redwood City,Care & social services,True,
+Redwood City,Education & childcare,True,
+Redwood City,Engineering & science (non-software),True,
+Redwood City,Food service,True,
+Redwood City,Healthcare practitioners & support,True,
+Redwood City,Management (general),True,
+Redwood City,Office & administrative support,True,
+Redwood City,Personal care & service,False,salary_insufficient;
+Redwood City,Protective & building services,True,
+Redwood City,Retail & customer service,True,
+Redwood City,Sales,True,
+Redwood City,"Skilled trades, maintenance & repair",True,
+Redwood City,"Software, data & IT",True,
+Redwood City,"Transportation, warehouse & logistics",True,
+Richmond,"Business, finance & HR",True,
+Richmond,Care & social services,True,
+Richmond,Education & childcare,True,
+Richmond,Engineering & science (non-software),True,
+Richmond,Food service,True,
+Richmond,Healthcare practitioners & support,True,
+Richmond,Management (general),True,
+Richmond,Office & administrative support,True,
+Richmond,Personal care & service,False,salary_insufficient;
+Richmond,Protective & building services,True,
+Richmond,Retail & customer service,True,
+Richmond,Sales,True,
+Richmond,"Skilled trades, maintenance & repair",True,
+Richmond,"Software, data & IT",True,
+Richmond,"Transportation, warehouse & logistics",True,
+Rio Nido,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Nido,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Rio Vista,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Rodeo,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Rohnert Park,"Business, finance & HR",True,
+Rohnert Park,Care & social services,True,
+Rohnert Park,Education & childcare,True,
+Rohnert Park,Engineering & science (non-software),True,
+Rohnert Park,Food service,True,
+Rohnert Park,Healthcare practitioners & support,True,
+Rohnert Park,Management (general),True,
+Rohnert Park,Office & administrative support,True,
+Rohnert Park,Personal care & service,False,salary_insufficient;
+Rohnert Park,Protective & building services,True,
+Rohnert Park,Retail & customer service,True,
+Rohnert Park,Sales,True,
+Rohnert Park,"Skilled trades, maintenance & repair",True,
+Rohnert Park,"Software, data & IT",True,
+Rohnert Park,"Transportation, warehouse & logistics",True,
+San Anselmo,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+San Anselmo,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+San Bruno,"Business, finance & HR",True,
+San Bruno,Care & social services,True,
+San Bruno,Education & childcare,True,
+San Bruno,Engineering & science (non-software),True,
+San Bruno,Food service,True,
+San Bruno,Healthcare practitioners & support,True,
+San Bruno,Management (general),True,
+San Bruno,Office & administrative support,True,
+San Bruno,Personal care & service,False,salary_insufficient;
+San Bruno,Protective & building services,True,
+San Bruno,Retail & customer service,True,
+San Bruno,Sales,True,
+San Bruno,"Skilled trades, maintenance & repair",True,
+San Bruno,"Software, data & IT",True,
+San Bruno,"Transportation, warehouse & logistics",True,
+San Carlos,"Business, finance & HR",True,
+San Carlos,Care & social services,True,
+San Carlos,Education & childcare,True,
+San Carlos,Engineering & science (non-software),True,
+San Carlos,Food service,True,
+San Carlos,Healthcare practitioners & support,True,
+San Carlos,Management (general),True,
+San Carlos,Office & administrative support,True,
+San Carlos,Personal care & service,False,salary_insufficient;
+San Carlos,Protective & building services,True,
+San Carlos,Retail & customer service,True,
+San Carlos,Sales,True,
+San Carlos,"Skilled trades, maintenance & repair",True,
+San Carlos,"Software, data & IT",True,
+San Carlos,"Transportation, warehouse & logistics",True,
+San Francisco,"Business, finance & HR",True,
+San Francisco,Care & social services,True,
+San Francisco,Education & childcare,True,
+San Francisco,Engineering & science (non-software),True,
+San Francisco,Food service,True,
+San Francisco,Healthcare practitioners & support,True,
+San Francisco,Management (general),True,
+San Francisco,Office & administrative support,True,
+San Francisco,Personal care & service,False,salary_insufficient;
+San Francisco,Protective & building services,True,
+San Francisco,Retail & customer service,True,
+San Francisco,Sales,True,
+San Francisco,"Skilled trades, maintenance & repair",True,
+San Francisco,"Software, data & IT",True,
+San Francisco,"Transportation, warehouse & logistics",True,
+San Jose,"Business, finance & HR",True,
+San Jose,Care & social services,True,
+San Jose,Education & childcare,True,
+San Jose,Engineering & science (non-software),True,
+San Jose,Food service,True,
+San Jose,Healthcare practitioners & support,True,
+San Jose,Management (general),True,
+San Jose,Office & administrative support,True,
+San Jose,Personal care & service,False,salary_insufficient;
+San Jose,Protective & building services,True,
+San Jose,Retail & customer service,True,
+San Jose,Sales,True,
+San Jose,"Skilled trades, maintenance & repair",True,
+San Jose,"Software, data & IT",True,
+San Jose,"Transportation, warehouse & logistics",True,
+San Leandro,"Business, finance & HR",True,
+San Leandro,Care & social services,True,
+San Leandro,Education & childcare,True,
+San Leandro,Engineering & science (non-software),True,
+San Leandro,Food service,True,
+San Leandro,Healthcare practitioners & support,True,
+San Leandro,Management (general),True,
+San Leandro,Office & administrative support,True,
+San Leandro,Personal care & service,False,salary_insufficient;
+San Leandro,Protective & building services,True,
+San Leandro,Retail & customer service,True,
+San Leandro,Sales,True,
+San Leandro,"Skilled trades, maintenance & repair",True,
+San Leandro,"Software, data & IT",True,
+San Leandro,"Transportation, warehouse & logistics",True,
+San Lorenzo,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+San Lorenzo,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+San Martin,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+San Mateo,"Business, finance & HR",True,
+San Mateo,Care & social services,True,
+San Mateo,Education & childcare,True,
+San Mateo,Engineering & science (non-software),True,
+San Mateo,Food service,True,
+San Mateo,Healthcare practitioners & support,True,
+San Mateo,Management (general),True,
+San Mateo,Office & administrative support,True,
+San Mateo,Personal care & service,False,salary_insufficient;
+San Mateo,Protective & building services,True,
+San Mateo,Retail & customer service,True,
+San Mateo,Sales,True,
+San Mateo,"Skilled trades, maintenance & repair",True,
+San Mateo,"Software, data & IT",True,
+San Mateo,"Transportation, warehouse & logistics",True,
+San Pablo,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+San Pablo,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+San Quentin,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+San Rafael,"Business, finance & HR",True,
+San Rafael,Care & social services,True,
+San Rafael,Education & childcare,True,
+San Rafael,Engineering & science (non-software),True,
+San Rafael,Food service,True,
+San Rafael,Healthcare practitioners & support,True,
+San Rafael,Management (general),True,
+San Rafael,Office & administrative support,True,
+San Rafael,Personal care & service,False,salary_insufficient;
+San Rafael,Protective & building services,True,
+San Rafael,Retail & customer service,True,
+San Rafael,Sales,True,
+San Rafael,"Skilled trades, maintenance & repair",True,
+San Rafael,"Software, data & IT",True,
+San Rafael,"Transportation, warehouse & logistics",True,
+San Ramon,"Business, finance & HR",True,
+San Ramon,Care & social services,True,
+San Ramon,Education & childcare,True,
+San Ramon,Engineering & science (non-software),True,
+San Ramon,Food service,True,
+San Ramon,Healthcare practitioners & support,True,
+San Ramon,Management (general),True,
+San Ramon,Office & administrative support,True,
+San Ramon,Personal care & service,False,salary_insufficient;
+San Ramon,Protective & building services,True,
+San Ramon,Retail & customer service,True,
+San Ramon,Sales,True,
+San Ramon,"Skilled trades, maintenance & repair",True,
+San Ramon,"Software, data & IT",True,
+San Ramon,"Transportation, warehouse & logistics",True,
+Santa Clara,"Business, finance & HR",True,
+Santa Clara,Care & social services,True,
+Santa Clara,Education & childcare,True,
+Santa Clara,Engineering & science (non-software),True,
+Santa Clara,Food service,True,
+Santa Clara,Healthcare practitioners & support,True,
+Santa Clara,Management (general),True,
+Santa Clara,Office & administrative support,True,
+Santa Clara,Personal care & service,False,salary_insufficient;
+Santa Clara,Protective & building services,True,
+Santa Clara,Retail & customer service,True,
+Santa Clara,Sales,True,
+Santa Clara,"Skilled trades, maintenance & repair",True,
+Santa Clara,"Software, data & IT",True,
+Santa Clara,"Transportation, warehouse & logistics",True,
+Santa Rosa,"Business, finance & HR",True,
+Santa Rosa,Care & social services,True,
+Santa Rosa,Education & childcare,True,
+Santa Rosa,Engineering & science (non-software),True,
+Santa Rosa,Food service,True,
+Santa Rosa,Healthcare practitioners & support,True,
+Santa Rosa,Management (general),True,
+Santa Rosa,Office & administrative support,True,
+Santa Rosa,Personal care & service,False,salary_insufficient;
+Santa Rosa,Protective & building services,True,
+Santa Rosa,Retail & customer service,True,
+Santa Rosa,Sales,True,
+Santa Rosa,"Skilled trades, maintenance & repair",True,
+Santa Rosa,"Software, data & IT",True,
+Santa Rosa,"Transportation, warehouse & logistics",True,
+Saratoga,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Saratoga,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Sausalito,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Sebastopol,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Sonoma,"Business, finance & HR",False,rent_1br_insufficient;
+Sonoma,Care & social services,False,rent_1br_insufficient;
+Sonoma,Education & childcare,False,rent_1br_insufficient;
+Sonoma,Engineering & science (non-software),False,rent_1br_insufficient;
+Sonoma,Food service,False,rent_1br_insufficient;
+Sonoma,Healthcare practitioners & support,False,rent_1br_insufficient;
+Sonoma,Management (general),False,rent_1br_insufficient;
+Sonoma,Office & administrative support,False,rent_1br_insufficient;
+Sonoma,Personal care & service,False,salary_insufficient;rent_1br_insufficient;
+Sonoma,Protective & building services,False,rent_1br_insufficient;
+Sonoma,Retail & customer service,False,rent_1br_insufficient;
+Sonoma,Sales,False,rent_1br_insufficient;
+Sonoma,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;
+Sonoma,"Software, data & IT",False,rent_1br_insufficient;
+Sonoma,"Transportation, warehouse & logistics",False,rent_1br_insufficient;
+South San Francisco,"Business, finance & HR",True,
+South San Francisco,Care & social services,True,
+South San Francisco,Education & childcare,True,
+South San Francisco,Engineering & science (non-software),True,
+South San Francisco,Food service,True,
+South San Francisco,Healthcare practitioners & support,True,
+South San Francisco,Management (general),True,
+South San Francisco,Office & administrative support,True,
+South San Francisco,Personal care & service,False,salary_insufficient;
+South San Francisco,Protective & building services,True,
+South San Francisco,Retail & customer service,True,
+South San Francisco,Sales,True,
+South San Francisco,"Skilled trades, maintenance & repair",True,
+South San Francisco,"Software, data & IT",True,
+South San Francisco,"Transportation, warehouse & logistics",True,
+St Helena,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+St Helena,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Stinson Beach,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Suisun City,"Business, finance & HR",True,
+Suisun City,Care & social services,True,
+Suisun City,Education & childcare,True,
+Suisun City,Engineering & science (non-software),True,
+Suisun City,Food service,True,
+Suisun City,Healthcare practitioners & support,True,
+Suisun City,Management (general),True,
+Suisun City,Office & administrative support,True,
+Suisun City,Personal care & service,False,salary_insufficient;
+Suisun City,Protective & building services,True,
+Suisun City,Retail & customer service,True,
+Suisun City,Sales,True,
+Suisun City,"Skilled trades, maintenance & repair",True,
+Suisun City,"Software, data & IT",True,
+Suisun City,"Transportation, warehouse & logistics",True,
+Sunnyvale,"Business, finance & HR",True,
+Sunnyvale,Care & social services,True,
+Sunnyvale,Education & childcare,True,
+Sunnyvale,Engineering & science (non-software),True,
+Sunnyvale,Food service,True,
+Sunnyvale,Healthcare practitioners & support,True,
+Sunnyvale,Management (general),True,
+Sunnyvale,Office & administrative support,True,
+Sunnyvale,Personal care & service,False,salary_insufficient;
+Sunnyvale,Protective & building services,True,
+Sunnyvale,Retail & customer service,True,
+Sunnyvale,Sales,True,
+Sunnyvale,"Skilled trades, maintenance & repair",True,
+Sunnyvale,"Software, data & IT",True,
+Sunnyvale,"Transportation, warehouse & logistics",True,
+The Sea Ranch,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+The Sea Ranch,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Tiburon,"Business, finance & HR",True,
+Tiburon,Care & social services,True,
+Tiburon,Education & childcare,True,
+Tiburon,Engineering & science (non-software),True,
+Tiburon,Food service,True,
+Tiburon,Healthcare practitioners & support,True,
+Tiburon,Management (general),True,
+Tiburon,Office & administrative support,True,
+Tiburon,Personal care & service,False,salary_insufficient;
+Tiburon,Protective & building services,True,
+Tiburon,Retail & customer service,True,
+Tiburon,Sales,True,
+Tiburon,"Skilled trades, maintenance & repair",True,
+Tiburon,"Software, data & IT",True,
+Tiburon,"Transportation, warehouse & logistics",True,
+Tracy,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Tracy,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Union City,"Business, finance & HR",True,
+Union City,Care & social services,True,
+Union City,Education & childcare,True,
+Union City,Engineering & science (non-software),True,
+Union City,Food service,True,
+Union City,Healthcare practitioners & support,True,
+Union City,Management (general),True,
+Union City,Office & administrative support,True,
+Union City,Personal care & service,False,salary_insufficient;
+Union City,Protective & building services,True,
+Union City,Retail & customer service,True,
+Union City,Sales,True,
+Union City,"Skilled trades, maintenance & repair",True,
+Union City,"Software, data & IT",True,
+Union City,"Transportation, warehouse & logistics",True,
+Vacaville,"Business, finance & HR",True,
+Vacaville,Care & social services,True,
+Vacaville,Education & childcare,True,
+Vacaville,Engineering & science (non-software),True,
+Vacaville,Food service,True,
+Vacaville,Healthcare practitioners & support,True,
+Vacaville,Management (general),True,
+Vacaville,Office & administrative support,True,
+Vacaville,Personal care & service,False,salary_insufficient;
+Vacaville,Protective & building services,True,
+Vacaville,Retail & customer service,True,
+Vacaville,Sales,True,
+Vacaville,"Skilled trades, maintenance & repair",True,
+Vacaville,"Software, data & IT",True,
+Vacaville,"Transportation, warehouse & logistics",True,
+Vallejo,"Business, finance & HR",True,
+Vallejo,Care & social services,True,
+Vallejo,Education & childcare,True,
+Vallejo,Engineering & science (non-software),True,
+Vallejo,Food service,True,
+Vallejo,Healthcare practitioners & support,True,
+Vallejo,Management (general),True,
+Vallejo,Office & administrative support,True,
+Vallejo,Personal care & service,False,salary_insufficient;
+Vallejo,Protective & building services,True,
+Vallejo,Retail & customer service,True,
+Vallejo,Sales,True,
+Vallejo,"Skilled trades, maintenance & repair",True,
+Vallejo,"Software, data & IT",True,
+Vallejo,"Transportation, warehouse & logistics",True,
+Walnut Creek,"Business, finance & HR",True,
+Walnut Creek,Care & social services,True,
+Walnut Creek,Education & childcare,True,
+Walnut Creek,Engineering & science (non-software),True,
+Walnut Creek,Food service,True,
+Walnut Creek,Healthcare practitioners & support,True,
+Walnut Creek,Management (general),True,
+Walnut Creek,Office & administrative support,True,
+Walnut Creek,Personal care & service,False,salary_insufficient;
+Walnut Creek,Protective & building services,True,
+Walnut Creek,Retail & customer service,True,
+Walnut Creek,Sales,True,
+Walnut Creek,"Skilled trades, maintenance & repair",True,
+Walnut Creek,"Software, data & IT",True,
+Walnut Creek,"Transportation, warehouse & logistics",True,
+Windsor,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Windsor,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodacre,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Woodside,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,"Business, finance & HR",False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Care & social services,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Education & childcare,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Engineering & science (non-software),False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Food service,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Healthcare practitioners & support,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Management (general),False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Office & administrative support,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Personal care & service,False,salary_insufficient;rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Protective & building services,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Retail & customer service,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,Sales,False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,"Skilled trades, maintenance & repair",False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,"Software, data & IT",False,rent_1br_insufficient;rent_2br_insufficient;
+Yountville,"Transportation, warehouse & logistics",False,rent_1br_insufficient;rent_2br_insufficient;

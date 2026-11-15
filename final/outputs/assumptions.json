@@ -1,0 +1,48 @@
+{
+  "_note": "Budget values identified as scenario parameters are project choices. See docs/ASSUMPTIONS.md.",
+  "tax_mode": "progressive",
+  "tax_description": "approximate 2025 single filer: federal + CA income tax + FICA + CA SDI, standard deduction, no credits",
+  "loan_interest_rate": 0.0639,
+  "loan_interest_source": "2025-26 federal Direct Loan undergraduate rate",
+  "loan_term_years": 10,
+  "monthly_essentials": {
+    "value": 1500.0,
+    "source": "Project scenario parameter. See docs/ASSUMPTIONS.md."
+  },
+  "monthly_savings_target": {
+    "value": 250.0,
+    "source": "Project savings target. See docs/ASSUMPTIONS.md."
+  },
+  "family_support_monthly": {
+    "value": 500.0,
+    "source": "Project support scenario. See docs/ASSUMPTIONS.md."
+  },
+  "rent_burden_threshold": 0.3,
+  "min_valid_salary_postings": 10,
+  "min_valid_rent_listings": 20,
+  "rent_plausible_range": [
+    500.0,
+    15000.0
+  ],
+  "housing": {
+    "alone": [
+      "1br",
+      0
+    ],
+    "shared": [
+      "2br",
+      1
+    ],
+    "student_parent": [
+      "2br",
+      0
+    ]
+  },
+  "benchmarks": {
+    "median_debt": 20389.0,
+    "high_debt": 25000.0,
+    "monthly_childcare": 1795.4183333333333,
+    "debt_source": "colleges.csv: 'completer_median_debt_2021_usd', Bay Area (is_bay_area), institution_type_2021 ~ 'Four-Year', n=33 institutions (median / P75 of institutional medians)",
+    "childcare_source": "college_affordability_by_income.csv: (parent_gap_center_care_2022_23_usd - affordability_gap_2022_23_usd) / 12, Bay Area median, n=73 institutions (source uses one statewide value: range $1,795-$1,795)"
+  }
+}

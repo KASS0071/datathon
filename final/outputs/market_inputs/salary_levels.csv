@@ -1,0 +1,4 @@
+salary_level,quantile,annual_pay_usd,n_valid_salary
+pay_P25,0.25,52700.0,18451
+pay_P50,0.5,80900.0,18451
+pay_P75,0.75,146500.0,18451

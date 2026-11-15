@@ -1,0 +1,1157 @@
+city,occupation,median_annual_salary,salary_q1,salary_q3,n_valid_salary
+Alameda,"Business, finance & HR",92032.9,62400.0,136240.0,17
+Alameda,Care & social services,59072.0,56201.600000000006,104052.0,5
+Alameda,Education & childcare,54080.0,50726.0,55788.2,8
+Alameda,Engineering & science (non-software),125413.6,88400.0,142500.0,9
+Alameda,Food service,43680.0,37325.600000000006,47632.0,19
+Alameda,Healthcare practitioners & support,108160.0,83200.0,145000.0,13
+Alameda,Management (general),70320.0,65520.0,85280.0,9
+Alameda,Office & administrative support,62400.0,58676.8,70158.4,7
+Alameda,Personal care & service,52676.0,46098.0,59254.0,2
+Alameda,Protective & building services,44720.0,42614.0,124507.65000000001,7
+Alameda,Retail & customer service,45900.0,41210.0,55616.6,16
+Alameda,Sales,74450.0,71225.0,77675.0,2
+Alameda,"Skilled trades, maintenance & repair",75000.0,62800.4,82600.0,11
+Alameda,"Software, data & IT",156000.0,135000.0,170851.2,9
+Alameda,"Transportation, warehouse & logistics",40560.0,37117.600000000006,44720.0,6
+Alamo,Healthcare practitioners & support,41080.0,40820.0,41340.0,2
+Alamo,Retail & customer service,34840.0,34840.0,34840.0,1
+Albany,Healthcare practitioners & support,176800.0,176800.0,176800.0,1
+Albany,Office & administrative support,66000.0,54840.0,75500.0,3
+Albany,"Skilled trades, maintenance & repair",92560.0,70200.0,95680.0,3
+American Canyon,"Business, finance & HR",72476.0,61718.0,82518.0,3
+American Canyon,Care & social services,49920.0,49920.0,49920.0,1
+American Canyon,Engineering & science (non-software),130000.0,130000.0,130000.0,1
+American Canyon,Food service,49920.0,47060.0,52520.0,4
+American Canyon,Healthcare practitioners & support,65520.0,54340.0,86320.0,3
+American Canyon,Personal care & service,37440.0,37440.0,37440.0,1
+American Canyon,Retail & customer service,52000.0,48100.0,59280.0,4
+American Canyon,Sales,43680.0,43680.0,43680.0,1
+American Canyon,"Skilled trades, maintenance & repair",48360.0,48100.0,48620.0,2
+American Canyon,"Transportation, warehouse & logistics",52520.0,52520.0,52520.0,1
+Antioch,"Business, finance & HR",56160.0,48490.0,67500.0,8
+Antioch,Care & social services,59810.4,55900.0,66740.0,8
+Antioch,Education & childcare,88400.0,88400.0,88400.0,1
+Antioch,Engineering & science (non-software),96425.0,96425.0,96425.0,1
+Antioch,Food service,44969.6,41600.0,49920.0,11
+Antioch,Healthcare practitioners & support,61204.0,42640.0,145600.0,21
+Antioch,Management (general),64319.0,54080.0,72800.0,5
+Antioch,Office & administrative support,41600.0,41600.0,41600.0,1
+Antioch,Personal care & service,52182.0,43667.0,60697.0,2
+Antioch,Protective & building services,57500.0,57500.0,57500.0,1
+Antioch,Retail & customer service,45760.0,37544.0,48880.0,11
+Antioch,Sales,70000.0,62040.0,79200.0,3
+Antioch,"Skilled trades, maintenance & repair",61360.0,49660.0,66820.0,6
+Antioch,"Software, data & IT",156000.0,106600.0,156000.0,3
+Antioch,"Transportation, warehouse & logistics",54080.0,43472.0,58240.0,5
+Atherton,Education & childcare,66586.0,49933.0,88660.0,6
+Atherton,Food service,46280.0,43420.0,49140.0,2
+Atherton,Healthcare practitioners & support,104520.0,91780.0,117260.0,2
+Atherton,Office & administrative support,92508.0,68874.0,96254.0,3
+Atherton,Personal care & service,42640.0,42640.0,42640.0,1
+Atherton,"Skilled trades, maintenance & repair",88400.0,67600.0,109200.0,2
+Atherton,"Transportation, warehouse & logistics",171400.0,171400.0,171400.0,1
+Bay Point,Care & social services,69680.0,69680.0,69680.0,1
+Bay Point,Engineering & science (non-software),90000.0,82500.0,105000.0,3
+Bay Point,Food service,41600.0,41600.0,41600.0,1
+Bay Point,Management (general),98500.0,98500.0,98500.0,1
+Bay Point,Sales,135000.0,135000.0,135000.0,1
+Bay Point,"Skilled trades, maintenance & repair",72904.0,67080.0,87131.0,4
+Belmont,"Business, finance & HR",106950.0,70720.0,121975.0,5
+Belmont,Care & social services,61880.0,61880.0,61880.0,1
+Belmont,Education & childcare,67600.0,67600.0,137500.0,5
+Belmont,Food service,49920.0,45947.2,55640.0,6
+Belmont,Healthcare practitioners & support,87360.0,87360.0,87360.0,1
+Belmont,Management (general),62400.0,62400.0,62400.0,1
+Belmont,Office & administrative support,38064.0,38064.0,38064.0,1
+Belmont,Retail & customer service,55120.0,46280.0,63960.0,2
+Belmont,"Skilled trades, maintenance & repair",91850.0,83175.0,100525.0,2
+Benicia,"Business, finance & HR",89509.18,54367.625,98827.86,6
+Benicia,Education & childcare,37284.0,37284.0,37284.0,1
+Benicia,Engineering & science (non-software),167500.0,167500.0,167500.0,1
+Benicia,Food service,48880.0,43680.0,50960.0,5
+Benicia,Healthcare practitioners & support,97500.0,47840.0,102750.0,5
+Benicia,Management (general),91704.47,78612.235,104796.705,2
+Benicia,Office & administrative support,69368.0,65884.0,72852.0,2
+Benicia,Protective & building services,39520.0,39520.0,39520.0,1
+Benicia,Retail & customer service,55120.0,48360.0,63440.0,3
+Benicia,Sales,72800.0,72800.0,72800.0,1
+Benicia,"Skilled trades, maintenance & repair",52500.0,44720.0,62400.0,5
+Benicia,"Software, data & IT",128250.0,128250.0,128250.0,1
+Benicia,"Transportation, warehouse & logistics",60840.0,60060.0,61620.0,2
+Berkeley,"Business, finance & HR",92930.4,77603.2,99293.56,14
+Berkeley,Care & social services,62571.6,57805.8,67337.4,2
+Berkeley,Education & childcare,101473.1675,50760.0,135349.5,24
+Berkeley,Engineering & science (non-software),149364.80000000002,92500.0,182800.0,9
+Berkeley,Food service,56544.8,50437.399999999994,63749.4,14
+Berkeley,Healthcare practitioners & support,66617.2,49920.0,112250.0,30
+Berkeley,Management (general),57720.0,50991.2,90250.0,7
+Berkeley,Office & administrative support,58746.8,51074.399999999994,80329.59999999999,20
+Berkeley,Personal care & service,72800.0,51365.600000000006,88171.6,7
+Berkeley,Protective & building services,56160.0,44720.0,71846.58,11
+Berkeley,Retail & customer service,50440.0,41758.6,65870.4,14
+Berkeley,Sales,70700.0,64792.0,80000.0,9
+Berkeley,"Skilled trades, maintenance & repair",89481.6,52000.0,119967.0725,15
+Berkeley,"Software, data & IT",150100.0,110000.0,172500.0,25
+Berkeley,"Transportation, warehouse & logistics",56576.0,47320.0,74222.51,7
+Brentwood,"Business, finance & HR",56160.0,56160.0,65000.0,5
+Brentwood,Care & social services,97500.0,67730.0,128310.0,3
+Brentwood,Education & childcare,45073.6,45073.6,45073.6,1
+Brentwood,Food service,47840.0,44720.0,50960.0,9
+Brentwood,Healthcare practitioners & support,106170.0,54600.0,152100.0,16
+Brentwood,Management (general),49920.0,49920.0,49920.0,1
+Brentwood,Office & administrative support,58240.0,45760.0,58240.0,5
+Brentwood,Protective & building services,39520.0,39145.600000000006,39800.8,3
+Brentwood,Retail & customer service,43160.0,38454.0,48360.0,20
+Brentwood,Sales,122880.0,84320.0,161440.0,2
+Brentwood,"Skilled trades, maintenance & repair",60320.0,54080.0,66560.0,2
+Brentwood,"Transportation, warehouse & logistics",44200.0,42900.0,45500.0,3
+Brisbane,"Business, finance & HR",87500.0,73750.0,133993.6,14
+Brisbane,Engineering & science (non-software),135505.6,121002.98625,138008.0,12
+Brisbane,Food service,43680.0,41111.2,44761.6,3
+Brisbane,Healthcare practitioners & support,157500.0,157500.0,157500.0,1
+Brisbane,Management (general),165262.5,165262.5,165262.5,1
+Brisbane,Office & administrative support,76200.0,69300.0,83100.0,2
+Brisbane,Retail & customer service,43160.0,41600.0,47840.0,5
+Brisbane,Sales,63379.6,61319.399999999994,65439.8,2
+Brisbane,"Skilled trades, maintenance & repair",56940.0,52000.0,58940.0,6
+Brisbane,"Software, data & IT",146000.0,146000.0,225000.0,5
+Brisbane,"Transportation, warehouse & logistics",47840.0,45760.0,63910.0,7
+Burlingame,"Business, finance & HR",102500.0,80500.0,127500.0,12
+Burlingame,Care & social services,61152.0,57616.0,70480.8,3
+Burlingame,Education & childcare,51105.600000000006,48058.4,54152.8,2
+Burlingame,Engineering & science (non-software),88400.0,70200.0,135000.0,7
+Burlingame,Food service,48880.0,44163.6,56940.0,14
+Burlingame,Healthcare practitioners & support,117500.0,86585.2,171498.59999999998,24
+Burlingame,Office & administrative support,57350.0,52650.0,77090.0,18
+Burlingame,Personal care & service,43014.399999999994,40081.6,45947.2,2
+Burlingame,Protective & building services,58011.2,56045.6,63832.6,4
+Burlingame,Retail & customer service,47751.6,42710.2,51329.399999999994,4
+Burlingame,Sales,95000.0,80900.0,102500.0,9
+Burlingame,"Skilled trades, maintenance & repair",70720.0,56940.0,73174.4,6
+Burlingame,"Software, data & IT",156250.0,138625.0,173500.0,6
+Burlingame,"Transportation, warehouse & logistics",52000.0,45552.0,59800.0,11
+Calistoga,"Business, finance & HR",74880.0,74880.0,74880.0,1
+Calistoga,Care & social services,52000.0,52000.0,52000.0,1
+Calistoga,Food service,42640.0,36998.0,52650.0,8
+Calistoga,Healthcare practitioners & support,145000.0,145000.0,145000.0,2
+Calistoga,Management (general),63375.0,57687.5,69062.5,2
+Calistoga,Office & administrative support,72363.20000000001,72363.20000000001,72363.20000000001,1
+Calistoga,Personal care & service,55161.6,55161.6,55161.6,1
+Calistoga,Retail & customer service,54600.0,54600.0,54600.0,1
+Calistoga,"Transportation, warehouse & logistics",52000.0,52000.0,52000.0,1
+Campbell,"Business, finance & HR",95750.0,59038.2,132625.0,8
+Campbell,Care & social services,59800.0,50993.8,70235.0,4
+Campbell,Education & childcare,65520.0,60320.0,71760.0,3
+Campbell,Engineering & science (non-software),143240.0,129860.0,156620.0,2
+Campbell,Food service,70000.0,41735.2,72000.0,9
+Campbell,Healthcare practitioners & support,95000.0,70720.0,125840.0,29
+Campbell,Management (general),75680.0,60580.0,94750.6,4
+Campbell,Office & administrative support,70000.0,57360.0,89496.0,3
+Campbell,Personal care & service,38480.0,38480.0,38480.0,1
+Campbell,Protective & building services,144385.475,128633.5375,160137.4125,2
+Campbell,Retail & customer service,44720.0,43160.0,46280.0,15
+Campbell,Sales,49400.0,42640.0,77200.0,7
+Campbell,"Skilled trades, maintenance & repair",62264.8,53820.0,70720.0,8
+Campbell,"Transportation, warehouse & logistics",55120.0,51480.0,58760.0,2
+Castro Valley,"Business, finance & HR",87500.0,87500.0,87500.0,1
+Castro Valley,Food service,44704.399999999994,41860.0,47902.4,10
+Castro Valley,Healthcare practitioners & support,78000.0,72077.2,104000.0,15
+Castro Valley,Management (general),103615.0,103615.0,103615.0,1
+Castro Valley,Office & administrative support,41600.0,40040.0,52000.0,3
+Castro Valley,Personal care & service,44720.0,44720.0,44720.0,1
+Castro Valley,Protective & building services,93126.79999999999,65553.8,120699.79999999999,2
+Castro Valley,Retail & customer service,42978.0,38064.0,52689.0,6
+Castro Valley,Sales,93180.0,77270.0,109090.0,2
+Castro Valley,"Skilled trades, maintenance & repair",112500.0,112500.0,112500.0,1
+Clayton,Healthcare practitioners & support,47829.6,47829.6,47829.6,1
+Clayton,Sales,83800.0,83800.0,83800.0,1
+Cloverdale,"Business, finance & HR",36816.0,36816.0,36816.0,1
+Cloverdale,Food service,41600.0,38220.0,43284.8,3
+Cloverdale,Management (general),42120.0,42120.0,42120.0,1
+Cloverdale,Office & administrative support,35360.0,35360.0,35360.0,1
+Cloverdale,Retail & customer service,37960.0,37960.0,37960.0,1
+Cloverdale,"Transportation, warehouse & logistics",51376.0,47424.0,55328.0,2
+Colma,Food service,41600.0,38376.0,44200.0,3
+Colma,Healthcare practitioners & support,42640.0,42640.0,42640.0,1
+Colma,Office & administrative support,49972.0,49426.0,50518.0,2
+Colma,Protective & building services,40508.0,39702.0,41314.0,2
+Colma,Retail & customer service,44200.0,40612.0,44720.0,10
+Colma,Sales,103500.0,86250.0,125500.0,4
+Colma,"Skilled trades, maintenance & repair",51480.0,47970.0,80340.0,3
+Colma,"Transportation, warehouse & logistics",47840.0,47840.0,47840.0,2
+Concord,"Business, finance & HR",76950.0,59280.0,119500.0,33
+Concord,Care & social services,61360.0,55104.4,99128.8175,7
+Concord,Education & childcare,52000.0,44564.0,62478.0,19
+Concord,Engineering & science (non-software),84000.0,80000.0,87500.0,5
+Concord,Food service,43940.0,41600.0,47840.0,32
+Concord,Healthcare practitioners & support,78000.0,49920.0,114400.0,45
+Concord,Management (general),65780.0,57720.0,73975.0,8
+Concord,Office & administrative support,46800.0,43576.0,62400.0,21
+Concord,Personal care & service,38818.0,35607.0,42640.0,4
+Concord,Protective & building services,41600.0,39520.0,43680.0,9
+Concord,Retail & customer service,41828.8,37315.2,47580.0,46
+Concord,Sales,80000.0,63400.0,91250.0,19
+Concord,"Skilled trades, maintenance & repair",54080.0,46280.0,72800.0,26
+Concord,"Software, data & IT",110400.0,103200.0,117600.0,2
+Concord,"Transportation, warehouse & logistics",53560.0,43420.0,62660.0,20
+Corte Madera,"Business, finance & HR",132500.0,43940.0,155800.0,7
+Corte Madera,Care & social services,47840.0,47840.0,47840.0,1
+Corte Madera,Education & childcare,47933.6,47933.6,47933.6,1
+Corte Madera,Food service,41288.0,38792.0,48100.0,4
+Corte Madera,Healthcare practitioners & support,61880.0,45240.0,100960.0,6
+Corte Madera,Management (general),92026.8,78040.2,106013.4,2
+Corte Madera,Office & administrative support,64480.0,55120.0,65000.0,3
+Corte Madera,Personal care & service,60476.0,60476.0,60476.0,1
+Corte Madera,Retail & customer service,43680.0,40820.0,45760.0,3
+Corte Madera,Sales,64480.0,64480.0,80000.0,5
+Corte Madera,"Skilled trades, maintenance & repair",100361.0,88930.5,111791.5,2
+Corte Madera,"Transportation, warehouse & logistics",102500.0,102500.0,102500.0,1
+Cotati,Care & social services,46800.0,46800.0,46800.0,1
+Cotati,Food service,43804.8,43222.4,44387.2,2
+Cotati,Healthcare practitioners & support,50684.4,46386.600000000006,54982.2,2
+Cotati,Office & administrative support,57200.0,57200.0,57200.0,1
+Cotati,Personal care & service,35360.0,35360.0,35360.0,1
+Cotati,Protective & building services,66809.59999999999,66809.59999999999,66809.59999999999,1
+Cotati,"Skilled trades, maintenance & repair",61360.0,56680.0,66040.0,2
+Cotati,"Transportation, warehouse & logistics",35131.200000000004,35131.200000000004,35131.200000000004,1
+Cupertino,"Business, finance & HR",138300.0,57200.0,161150.0,21
+Cupertino,Care & social services,52000.0,52000.0,52000.0,1
+Cupertino,Education & childcare,52000.0,51105.6,106849.6,5
+Cupertino,Engineering & science (non-software),177300.0,160425.0,214000.0,43
+Cupertino,Food service,46415.2,43339.4,86523.5,16
+Cupertino,Healthcare practitioners & support,93600.0,58240.0,214000.0,13
+Cupertino,Management (general),90641.20000000001,71786.0,135501.80000000002,4
+Cupertino,Office & administrative support,85883.2,75441.6,96324.79999999999,2
+Cupertino,Personal care & service,43680.0,41600.0,43680.0,3
+Cupertino,Protective & building services,141679.6,55359.2,234687.5,4
+Cupertino,Retail & customer service,79630.0,39962.0,131400.0,10
+Cupertino,Sales,81700.0,79425.0,108787.5,4
+Cupertino,"Skilled trades, maintenance & repair",59280.0,48204.0,81500.0,7
+Cupertino,"Software, data & IT",209750.0,177300.0,214000.0,125
+Cupertino,"Transportation, warehouse & logistics",150725.0,103962.5,197487.5,2
+Daly City,"Business, finance & HR",65478.399999999994,56160.0,107750.0,5
+Daly City,Care & social services,124000.0,121000.0,127000.0,2
+Daly City,Education & childcare,59306.0,57733.0,60879.0,2
+Daly City,Engineering & science (non-software),159682.8,154274.19999999998,165091.4,2
+Daly City,Food service,43420.0,37570.0,49400.0,16
+Daly City,Healthcare practitioners & support,104000.0,60320.0,126500.0,21
+Daly City,Management (general),58240.0,51350.0,88050.0,7
+Daly City,Office & administrative support,66196.0,59800.0,88584.0,7
+Daly City,Personal care & service,42640.0,42640.0,42640.0,1
+Daly City,Protective & building services,54600.0,50700.0,58500.0,2
+Daly City,Retail & customer service,45760.0,43680.0,52000.0,25
+Daly City,Sales,75000.0,54850.0,80900.0,7
+Daly City,"Skilled trades, maintenance & repair",42380.0,40820.0,60192.0,7
+Daly City,"Software, data & IT",138000.0,108750.0,156000.0,4
+Daly City,"Transportation, warehouse & logistics",47840.0,45760.0,57720.0,3
+Danville,"Business, finance & HR",65000.0,56160.0,70000.0,5
+Danville,Care & social services,49920.0,49920.0,49920.0,1
+Danville,Education & childcare,50960.0,50960.0,50960.0,1
+Danville,Food service,43160.0,41080.0,49400.0,8
+Danville,Healthcare practitioners & support,52000.0,42640.0,111060.0,7
+Danville,Management (general),77760.0,64220.0,105187.5,4
+Danville,Office & administrative support,61360.0,56914.0,62920.0,3
+Danville,Retail & customer service,45968.0,36452.0,59280.0,4
+Danville,"Skilled trades, maintenance & repair",89960.0,81380.0,98540.0,2
+Danville,"Software, data & IT",156000.0,156000.0,170750.0,3
+Dixon,Education & childcare,95000.0,95000.0,95000.0,1
+Dixon,Food service,47840.0,44980.0,50440.0,4
+Dixon,Healthcare practitioners & support,49920.0,37440.0,97500.0,5
+Dixon,Management (general),50000.0,50000.0,50000.0,1
+Dixon,Protective & building services,36400.0,36400.0,36400.0,1
+Dixon,Retail & customer service,36400.0,35880.0,53040.0,5
+Dixon,"Skilled trades, maintenance & repair",77970.0,58240.0,106875.0,4
+Dixon,"Transportation, warehouse & logistics",37960.0,37440.0,43485.0,4
+Dublin,"Business, finance & HR",73260.75,58021.6,103363.75,10
+Dublin,Care & social services,62400.0,61360.0,90000.0,5
+Dublin,Education & childcare,57146.0,37856.0,70304.0,5
+Dublin,Engineering & science (non-software),62000.0,62000.0,62000.0,1
+Dublin,Food service,41600.0,38287.600000000006,54860.0,12
+Dublin,Healthcare practitioners & support,79040.0,77480.0,119662.4,5
+Dublin,Management (general),98000.0,53573.0,111987.5,8
+Dublin,Office & administrative support,62426.0,55679.0,70772.0,4
+Dublin,Personal care & service,57200.0,54496.0,83200.0,3
+Dublin,Protective & building services,98602.4,75041.2,122163.59999999999,2
+Dublin,Retail & customer service,44798.0,39208.0,58965.0,12
+Dublin,Sales,86269.75,72865.625,99176.5,4
+Dublin,"Skilled trades, maintenance & repair",49920.0,47112.0,70720.0,9
+Dublin,"Software, data & IT",114175.0,101575.0,158875.0,8
+Dublin,"Transportation, warehouse & logistics",49920.0,49400.0,56160.0,3
+East Palo Alto,Education & childcare,73382.40000000001,68931.20000000001,90812.20000000001,3
+East Palo Alto,Food service,51818.0,49400.0,56069.0,6
+East Palo Alto,Healthcare practitioners & support,60320.0,57720.0,66560.0,3
+East Palo Alto,Management (general),45656.0,45656.0,45656.0,1
+East Palo Alto,Office & administrative support,57226.0,55653.0,58799.0,2
+East Palo Alto,Retail & customer service,43680.0,42900.0,44460.0,6
+East Palo Alto,"Skilled trades, maintenance & repair",50000.0,50000.0,50000.0,1
+East Palo Alto,"Software, data & IT",194400.0,189025.0,194400.0,19
+East Palo Alto,"Transportation, warehouse & logistics",46800.0,46800.0,46800.0,1
+El Cerrito,"Business, finance & HR",91875.0,91875.0,91875.0,1
+El Cerrito,Care & social services,54500.0,54500.0,54500.0,1
+El Cerrito,Education & childcare,77750.5,77750.5,77750.5,1
+El Cerrito,Food service,48880.0,43420.0,50440.0,6
+El Cerrito,Healthcare practitioners & support,103780.0,74770.0,132790.0,2
+El Cerrito,Management (general),65520.0,65520.0,65520.0,1
+El Cerrito,Office & administrative support,55549.0,51694.5,59403.5,2
+El Cerrito,Retail & customer service,44720.0,43160.0,47320.0,11
+El Cerrito,Sales,62290.0,52985.0,71595.0,2
+El Cerrito,"Skilled trades, maintenance & repair",42640.0,42640.0,42640.0,1
+El Cerrito,"Transportation, warehouse & logistics",47840.0,47840.0,47840.0,1
+El Sobrante,Education & childcare,42640.0,42640.0,42640.0,1
+El Sobrante,Food service,41600.0,41600.0,41600.0,1
+El Sobrante,Healthcare practitioners & support,80600.0,80600.0,168800.0,3
+El Sobrante,Office & administrative support,46800.0,46800.0,46800.0,1
+El Sobrante,Retail & customer service,56160.0,56160.0,56160.0,1
+El Sobrante,Sales,125000.0,125000.0,125000.0,1
+El Sobrante,"Skilled trades, maintenance & repair",64480.0,64480.0,64480.0,1
+Emeryville,"Business, finance & HR",97500.0,79451.0,133775.0,4
+Emeryville,Care & social services,65879.8,55944.7,75814.9,2
+Emeryville,Education & childcare,84190.5,84190.5,84190.5,1
+Emeryville,Engineering & science (non-software),121250.0,113125.0,129375.0,2
+Emeryville,Food service,48360.0,42130.399999999994,50180.0,8
+Emeryville,Healthcare practitioners & support,215228.0,95000.0,310000.0,5
+Emeryville,Management (general),50960.0,48360.0,58240.0,3
+Emeryville,Protective & building services,94684.8,67279.20000000001,122090.4,2
+Emeryville,Retail & customer service,45760.0,44460.0,50076.0,12
+Emeryville,Sales,82500.0,78750.0,86250.0,2
+Emeryville,"Skilled trades, maintenance & repair",66201.2,49764.0,84370.6,6
+Emeryville,"Software, data & IT",137500.0,91300.0,176875.0,6
+Emeryville,"Transportation, warehouse & logistics",49920.0,45936.8,57460.0,11
+Fairfax,"Business, finance & HR",54080.0,54080.0,54080.0,1
+Fairfax,Care & social services,44720.0,44720.0,44720.0,1
+Fairfax,Food service,38480.0,34840.0,39000.0,3
+Fairfax,Office & administrative support,46800.0,46800.0,46800.0,1
+Fairfield,"Business, finance & HR",71500.0,60283.3275,85750.0,19
+Fairfield,Care & social services,52603.2,46280.0,57522.4,18
+Fairfield,Education & childcare,44720.0,44720.0,66553.0,5
+Fairfield,Engineering & science (non-software),100000.0,95750.0,116250.0,3
+Fairfield,Food service,42120.0,41600.0,49920.0,11
+Fairfield,Healthcare practitioners & support,106953.6,78592.8,156000.0,61
+Fairfield,Management (general),86250.0,70885.0,106250.0,16
+Fairfield,Office & administrative support,72544.0,56420.0,80967.02249999999,11
+Fairfield,Personal care & service,60658.8,54738.2,66579.4,2
+Fairfield,Protective & building services,72828.0,45531.2,75470.0,7
+Fairfield,Retail & customer service,43680.0,41600.0,58760.0,19
+Fairfield,Sales,83000.0,66250.0,92840.0,10
+Fairfield,"Skilled trades, maintenance & repair",62400.0,49452.0,78015.6,43
+Fairfield,"Software, data & IT",133268.175,106040.32875000002,143870.33375,4
+Fairfield,"Transportation, warehouse & logistics",50502.399999999994,42380.0,69622.75,19
+Foster City,"Business, finance & HR",118949.2,100350.0,131090.0,10
+Foster City,Care & social services,58240.0,58240.0,58240.0,2
+Foster City,Education & childcare,58240.0,49868.0,59280.0,5
+Foster City,Engineering & science (non-software),140400.0,96541.25,168090.0,15
+Foster City,Food service,53040.0,47840.0,56160.0,3
+Foster City,Healthcare practitioners & support,158903.75,132500.0,168090.0,16
+Foster City,Management (general),168090.0,156545.0,257253.75,3
+Foster City,Office & administrative support,115500.0,94108.4,120637.5,3
+Foster City,Protective & building services,40300.0,38714.0,41886.0,2
+Foster City,Retail & customer service,60320.0,60320.0,60320.0,1
+Foster City,Sales,95000.0,95000.0,95000.0,1
+Foster City,"Skilled trades, maintenance & repair",55055.0,54080.0,65416.0,5
+Foster City,"Software, data & IT",194500.0,100850.0,222087.5,28
+Foster City,"Transportation, warehouse & logistics",66040.0,54860.0,77220.0,2
+Fremont,"Business, finance & HR",78000.0,62400.0,100000.0,49
+Fremont,Care & social services,57688.8,46280.0,83995.375,10
+Fremont,Education & childcare,60000.0,53040.0,67600.0,9
+Fremont,Engineering & science (non-software),110000.0,84032.0,142500.0,81
+Fremont,Food service,48880.0,39520.0,57200.0,21
+Fremont,Healthcare practitioners & support,98750.0,59670.0,177998.8,66
+Fremont,Management (general),80000.0,58240.0,115000.0,17
+Fremont,Office & administrative support,63200.0,47060.0,79300.0,18
+Fremont,Personal care & service,41600.0,39182.0,59800.0,3
+Fremont,Protective & building services,49680.8,43820.4,56125.0,6
+Fremont,Retail & customer service,44720.0,42094.0,51220.0,24
+Fremont,Sales,80000.0,66250.0,105000.0,27
+Fremont,"Skilled trades, maintenance & repair",63440.0,47840.0,74526.4,67
+Fremont,"Software, data & IT",135000.0,103300.0,175000.0,45
+Fremont,"Transportation, warehouse & logistics",54132.0,46020.0,62400.0,31
+Gilroy,"Business, finance & HR",70000.0,62790.0,85527.98999999999,4
+Gilroy,Care & social services,70200.0,50960.0,90902.25,4
+Gilroy,Education & childcare,78436.25,56290.0,96552.5,4
+Gilroy,Engineering & science (non-software),107120.0,107120.0,107120.0,1
+Gilroy,Food service,49920.0,47936.200000000004,55640.0,6
+Gilroy,Healthcare practitioners & support,121150.0,84598.345,145875.0,20
+Gilroy,Management (general),42640.0,40820.0,55640.0,3
+Gilroy,Office & administrative support,49202.399999999994,43680.0,56983.6,4
+Gilroy,Protective & building services,49420.0,40365.0,58855.0,4
+Gilroy,Retail & customer service,44382.0,41860.0,47411.0,22
+Gilroy,Sales,76100.0,38740.0,105000.0,5
+Gilroy,"Skilled trades, maintenance & repair",53861.6,49400.0,62400.0,12
+Gilroy,"Transportation, warehouse & logistics",46800.0,43498.0,63648.0,3
+Greenbrae,"Business, finance & HR",155708.8,155708.8,155708.8,1
+Greenbrae,Care & social services,64698.399999999994,55749.2,72451.59999999999,3
+Greenbrae,Food service,44720.0,42900.0,56243.2,3
+Greenbrae,Healthcare practitioners & support,111576.40000000001,61867.0,163150.0,22
+Greenbrae,Management (general),60320.0,60320.0,60320.0,1
+Greenbrae,Office & administrative support,53788.8,51854.4,62566.4,3
+Greenbrae,Protective & building services,45843.2,45843.2,45843.2,1
+Greenbrae,Retail & customer service,37856.0,37856.0,37856.0,1
+Greenbrae,"Skilled trades, maintenance & repair",82669.6,82669.6,84385.6,5
+Greenbrae,"Transportation, warehouse & logistics",56128.8,53903.2,57408.0,3
+Half Moon Bay,Care & social services,59072.0,59072.0,59072.0,1
+Half Moon Bay,Engineering & science (non-software),95000.0,95000.0,95000.0,1
+Half Moon Bay,Food service,62088.0,51454.0,64532.0,3
+Half Moon Bay,Healthcare practitioners & support,52520.0,51740.0,53300.0,2
+Half Moon Bay,Management (general),212407.5,131423.75,293391.25,2
+Half Moon Bay,Office & administrative support,68848.0,55484.0,69368.0,3
+Half Moon Bay,Personal care & service,66352.0,64532.0,74264.0,4
+Half Moon Bay,Protective & building services,59072.0,59072.0,59072.0,1
+Half Moon Bay,Retail & customer service,58552.0,49036.0,58916.0,3
+Half Moon Bay,Sales,126250.0,124375.0,128125.0,2
+Hayward,"Business, finance & HR",67340.0,54210.0,84375.0,26
+Hayward,Care & social services,60576.0,56893.2,91250.0,16
+Hayward,Education & childcare,55640.0,47840.0,62636.600000000006,6
+Hayward,Engineering & science (non-software),96200.0,71240.0,125000.0,13
+Hayward,Food service,42010.8,41600.0,50180.0,32
+Hayward,Healthcare practitioners & support,95446.0,59280.0,141901.5,34
+Hayward,Management (general),74820.0,53976.0,104875.0,12
+Hayward,Office & administrative support,53560.0,46800.0,59994.261249999996,22
+Hayward,Personal care & service,49701.6,43108.0,61032.399999999994,4
+Hayward,Protective & building services,44954.0,40560.0,81462.0,8
+Hayward,Retail & customer service,45000.0,42570.0,54600.0,27
+Hayward,Sales,79000.0,58500.0,87100.0,16
+Hayward,"Skilled trades, maintenance & repair",62400.0,48003.8,79280.0,56
+Hayward,"Software, data & IT",102500.0,61880.0,156000.0,7
+Hayward,"Transportation, warehouse & logistics",50570.0,45760.0,60320.0,36
+Healdsburg,"Business, finance & HR",60590.4,58375.2,62805.600000000006,2
+Healdsburg,Care & social services,52970.0,45205.0,60735.0,2
+Healdsburg,Engineering & science (non-software),115000.0,92500.0,142500.0,5
+Healdsburg,Food service,46280.0,37960.0,52260.0,6
+Healdsburg,Healthcare practitioners & support,116480.0,88660.0,139950.0,6
+Healdsburg,Office & administrative support,41600.0,41600.0,41600.0,1
+Healdsburg,Personal care & service,42120.0,42120.0,42120.0,1
+Healdsburg,Protective & building services,45240.0,45240.0,45240.0,1
+Healdsburg,Retail & customer service,62920.0,59540.0,66300.0,2
+Healdsburg,Sales,74522.0,74522.0,74522.0,1
+Healdsburg,"Skilled trades, maintenance & repair",54600.0,43160.0,69370.6,4
+Healdsburg,"Software, data & IT",100000.0,100000.0,100000.0,1
+Healdsburg,"Transportation, warehouse & logistics",80490.9,80490.9,80490.9,1
+Hercules,"Business, finance & HR",62160.8,62160.8,62160.8,1
+Hercules,Care & social services,68640.0,68640.0,68640.0,1
+Hercules,Engineering & science (non-software),67600.0,67600.0,67600.0,1
+Hercules,Food service,47840.0,47320.0,50278.8,3
+Hercules,Healthcare practitioners & support,160000.0,160000.0,160000.0,1
+Hercules,Office & administrative support,45760.0,45760.0,45760.0,1
+Hercules,Personal care & service,72800.0,72800.0,72800.0,1
+Hercules,Retail & customer service,43680.0,43160.0,44200.0,7
+Hercules,Sales,80900.0,80900.0,80900.0,2
+Hercules,"Skilled trades, maintenance & repair",47840.0,47840.0,47840.0,1
+Hercules,"Transportation, warehouse & logistics",46800.0,46800.0,46800.0,1
+Hillsborough,Education & childcare,94640.0,94640.0,103595.0,3
+Hillsborough,Food service,62400.0,62400.0,62400.0,1
+Kentfield,"Business, finance & HR",61588.799999999996,61588.799999999996,61588.799999999996,2
+Kentfield,Food service,43680.0,43160.0,44200.0,3
+Kentfield,Healthcare practitioners & support,68785.6,66736.8,70834.4,2
+Kentfield,Retail & customer service,40560.0,40560.0,40560.0,1
+Lafayette,"Business, finance & HR",72498.4,57500.0,135000.0,5
+Lafayette,Education & childcare,47840.0,44720.0,50960.0,2
+Lafayette,Engineering & science (non-software),132500.0,132500.0,132500.0,1
+Lafayette,Food service,49920.0,46540.0,52520.0,4
+Lafayette,Healthcare practitioners & support,53040.0,44980.0,67340.0,6
+Lafayette,Retail & customer service,48984.0,46176.0,55120.0,5
+Lafayette,Sales,80900.0,80900.0,80900.0,1
+Lafayette,"Skilled trades, maintenance & repair",52000.0,50000.0,67600.0,5
+Lafayette,"Transportation, warehouse & logistics",35152.0,35152.0,35152.0,1
+Larkspur,"Business, finance & HR",64870.0,57785.0,71955.0,2
+Larkspur,Care & social services,45136.0,45136.0,45136.0,1
+Larkspur,Education & childcare,109148.0,109148.0,109148.0,1
+Larkspur,Food service,44969.6,44969.6,44969.6,1
+Larkspur,Healthcare practitioners & support,140400.0,80390.0,145080.0,11
+Larkspur,Management (general),165000.0,165000.0,165000.0,1
+Larkspur,Office & administrative support,48256.0,48256.0,48256.0,1
+Larkspur,Retail & customer service,41600.0,41600.0,41600.0,1
+Livermore,"Business, finance & HR",84250.0,68640.0,114000.0,17
+Livermore,Care & social services,60320.0,60320.0,60320.0,1
+Livermore,Education & childcare,49920.0,46800.0,53040.0,2
+Livermore,Engineering & science (non-software),107500.0,92500.0,162009.0,19
+Livermore,Food service,41600.0,37700.0,46800.0,15
+Livermore,Healthcare practitioners & support,100393.2,55380.0,154615.0,24
+Livermore,Management (general),50000.0,50000.0,66080.0,3
+Livermore,Office & administrative support,55655.6,44200.0,67087.8,6
+Livermore,Personal care & service,60502.0,56147.0,64857.0,2
+Livermore,Protective & building services,53143.2,46209.8,83828.25,4
+Livermore,Retail & customer service,44720.0,39000.0,50996.4,27
+Livermore,Sales,71250.0,65000.0,86839.89,8
+Livermore,"Skilled trades, maintenance & repair",58240.0,49920.0,80000.0,29
+Livermore,"Software, data & IT",138480.0,121332.5,170226.0,15
+Livermore,"Transportation, warehouse & logistics",54080.0,45760.0,68120.0,19
+Los Altos,"Business, finance & HR",95580.0,75870.0,115290.0,2
+Los Altos,Education & childcare,49400.0,48620.0,50180.0,2
+Los Altos,Food service,45760.0,41808.0,51480.0,3
+Los Altos,Healthcare practitioners & support,83200.0,49920.0,128810.58,7
+Los Altos,Management (general),250000.0,250000.0,250000.0,1
+Los Altos,Office & administrative support,57200.0,52000.0,65520.0,3
+Los Altos,Retail & customer service,55000.0,50588.0,58750.0,3
+Los Altos,Sales,67500.0,67500.0,67500.0,2
+Los Altos,"Skilled trades, maintenance & repair",100000.0,100000.0,100000.0,1
+Los Altos,"Software, data & IT",199875.0,177937.5,214562.5,4
+Los Gatos,"Business, finance & HR",98800.0,62400.0,109200.0,5
+Los Gatos,Care & social services,64750.0,58375.0,71125.0,2
+Los Gatos,Education & childcare,55120.0,44720.0,71682.0,6
+Los Gatos,Engineering & science (non-software),452250.0,168562.5,667875.0,6
+Los Gatos,Food service,57200.0,42265.6,75000.0,5
+Los Gatos,Healthcare practitioners & support,102500.0,61838.4,119800.0,35
+Los Gatos,Management (general),69000.0,63620.0,72000.0,3
+Los Gatos,Office & administrative support,54750.0,51480.0,60391.6,4
+Los Gatos,Personal care & service,72800.0,67650.0,74100.0,3
+Los Gatos,Protective & building services,125777.59999999999,88254.4,139146.8,3
+Los Gatos,Retail & customer service,46800.0,45240.0,48360.0,2
+Los Gatos,"Skilled trades, maintenance & repair",70187.5,61746.25,78877.0,4
+Los Gatos,"Software, data & IT",473000.0,274375.0,608000.0,16
+Marin City,Healthcare practitioners & support,145000.0,145000.0,145000.0,1
+Marin City,Protective & building services,56160.0,56160.0,56160.0,1
+Marin City,Sales,68650.0,68650.0,68650.0,1
+Marin City,"Skilled trades, maintenance & repair",48500.0,46750.0,50250.0,2
+Martinez,"Business, finance & HR",91263.5,72140.85500000001,107500.0,5
+Martinez,Care & social services,54080.0,50440.0,94996.33,3
+Martinez,Engineering & science (non-software),145302.43,137051.7775,156964.02,3
+Martinez,Food service,50960.0,48880.0,57200.0,5
+Martinez,Healthcare practitioners & support,115436.9875,88572.23375,180172.62,14
+Martinez,Management (general),76200.0,56960.0,110777.25,8
+Martinez,Office & administrative support,76991.2,64788.96,104862.78375,4
+Martinez,Personal care & service,62400.0,62400.0,62400.0,1
+Martinez,Protective & building services,50960.0,40560.0,57405.9,7
+Martinez,Retail & customer service,43680.0,41600.0,44720.0,9
+Martinez,Sales,80900.0,80450.0,84436.5,3
+Martinez,"Skilled trades, maintenance & repair",72800.0,57500.0,85000.0,13
+Martinez,"Software, data & IT",153836.02000000002,153836.02000000002,153836.02000000002,1
+Martinez,"Transportation, warehouse & logistics",49920.0,48360.0,73294.89,3
+Menlo Park,"Business, finance & HR",101250.0,72879.2,121500.0,26
+Menlo Park,Care & social services,50960.0,50960.0,50960.0,1
+Menlo Park,Education & childcare,74651.20000000001,73236.8,85540.0,4
+Menlo Park,Engineering & science (non-software),151500.0,132500.0,165500.0,17
+Menlo Park,Food service,44969.6,44720.0,47840.0,9
+Menlo Park,Healthcare practitioners & support,65306.8,54310.0,124038.2,18
+Menlo Park,Management (general),159675.2,94712.6,232625.0,6
+Menlo Park,Office & administrative support,83450.0,72850.0,98579.4,6
+Menlo Park,Personal care & service,41600.0,41600.0,41600.0,1
+Menlo Park,Protective & building services,52000.0,50393.2,96197.5,3
+Menlo Park,Retail & customer service,66450.0,59225.0,100304.5,3
+Menlo Park,Sales,162000.0,152750.0,249750.0,3
+Menlo Park,"Skilled trades, maintenance & repair",67600.0,60496.8,72800.0,9
+Menlo Park,"Software, data & IT",180500.0,147750.0,195000.0,54
+Menlo Park,"Transportation, warehouse & logistics",49660.0,45760.0,67390.0,4
+Mill Valley,"Business, finance & HR",114960.0,82440.0,147480.0,2
+Mill Valley,Care & social services,47840.0,47840.0,47840.0,1
+Mill Valley,Food service,51604.8,42510.0,63680.0,4
+Mill Valley,Healthcare practitioners & support,91820.0,66040.0,133050.0,4
+Mill Valley,Management (general),68640.0,62400.0,85000.0,5
+Mill Valley,Office & administrative support,54080.0,54080.0,54080.0,1
+Mill Valley,Protective & building services,73750.0,65625.0,81875.0,2
+Mill Valley,Retail & customer service,53560.0,49140.0,57980.0,2
+Mill Valley,"Skilled trades, maintenance & repair",66320.0,54480.0,78160.0,2
+Millbrae,"Business, finance & HR",113965.0,85062.5,142867.5,2
+Millbrae,Care & social services,64720.0,51080.0,78360.0,2
+Millbrae,Education & childcare,91598.0,71799.0,111397.0,2
+Millbrae,Food service,49920.0,46020.0,52520.0,4
+Millbrae,Management (general),84661.20000000001,72490.6,96831.8,2
+Millbrae,Office & administrative support,55120.0,55120.0,55120.0,1
+Millbrae,Protective & building services,47840.0,44720.0,50960.0,2
+Millbrae,Retail & customer service,42380.0,41990.0,45760.0,4
+Millbrae,Sales,80900.0,66450.0,121450.0,3
+Milpitas,"Business, finance & HR",57200.0,54480.4,78250.0,15
+Milpitas,Care & social services,57720.0,55770.0,62140.0,4
+Milpitas,Engineering & science (non-software),111000.0,89500.0,140000.0,25
+Milpitas,Food service,44683.6,44119.399999999994,48880.0,8
+Milpitas,Healthcare practitioners & support,74880.0,48880.0,143320.0,11
+Milpitas,Management (general),72150.0,61505.0,93250.0,6
+Milpitas,Office & administrative support,57720.0,50180.0,70810.0,6
+Milpitas,Personal care & service,46800.0,46800.0,46800.0,5
+Milpitas,Protective & building services,41080.0,40300.0,41860.0,2
+Milpitas,Retail & customer service,45240.0,43648.8,58474.0,18
+Milpitas,Sales,92500.0,70200.0,145000.0,15
+Milpitas,"Skilled trades, maintenance & repair",56160.0,44790.0,63180.0,26
+Milpitas,"Software, data & IT",157400.0,148135.0,176200.0,16
+Milpitas,"Transportation, warehouse & logistics",58240.0,47840.0,61360.0,13
+Moraga,Care & social services,46800.0,46800.0,46800.0,1
+Moraga,Food service,38480.0,38480.0,38480.0,1
+Moraga,Healthcare practitioners & support,61880.0,61100.0,62660.0,2
+Moraga,Office & administrative support,52000.0,52000.0,52000.0,1
+Moraga,Retail & customer service,62400.0,62400.0,62400.0,1
+Moraga,"Transportation, warehouse & logistics",45760.0,45760.0,45760.0,1
+Morgan Hill,"Business, finance & HR",50096.8,49920.0,105000.0,5
+Morgan Hill,Care & social services,53040.0,53040.0,54080.0,5
+Morgan Hill,Education & childcare,80872.5,80218.125,80872.5,6
+Morgan Hill,Engineering & science (non-software),112500.0,105000.0,119375.0,4
+Morgan Hill,Food service,46924.8,40950.0,50960.0,8
+Morgan Hill,Healthcare practitioners & support,96067.43,58734.0,123071.0,10
+Morgan Hill,Management (general),109254.0,94627.0,123881.0,2
+Morgan Hill,Office & administrative support,42463.2,40991.6,43934.8,2
+Morgan Hill,Personal care & service,37960.0,37180.0,38740.0,2
+Morgan Hill,Retail & customer service,44200.0,42900.0,55120.0,14
+Morgan Hill,Sales,77500.0,75000.0,95160.0,5
+Morgan Hill,"Skilled trades, maintenance & repair",76440.0,61620.0,93600.0,6
+Morgan Hill,"Software, data & IT",80080.0,73320.0,86840.0,2
+Morgan Hill,"Transportation, warehouse & logistics",46800.0,45760.0,52000.0,3
+Mountain View,"Business, finance & HR",119200.0,80000.0,172000.0,49
+Mountain View,Care & social services,82240.0,62140.0,112536.2,4
+Mountain View,Education & childcare,63440.0,56999.8,69175.0,8
+Mountain View,Engineering & science (non-software),139500.0,122008.6,160375.0,38
+Mountain View,Food service,56160.0,49400.0,65100.0,11
+Mountain View,Healthcare practitioners & support,132912.0,64480.0,162422.0,25
+Mountain View,Management (general),117330.0,76875.0,192700.0,16
+Mountain View,Office & administrative support,80375.0,62404.0,103075.0,10
+Mountain View,Personal care & service,43056.0,42848.0,57408.0,3
+Mountain View,Protective & building services,83750.0,70625.0,96875.0,2
+Mountain View,Retail & customer service,42952.0,40820.0,52988.0,10
+Mountain View,Sales,100000.0,85000.0,112000.0,11
+Mountain View,"Skilled trades, maintenance & repair",67600.0,54496.0,93600.0,17
+Mountain View,"Software, data & IT",179000.0,167800.0,194400.0,176
+Mountain View,"Transportation, warehouse & logistics",73274.20000000001,62842.0,135824.6,10
+Napa,"Business, finance & HR",100880.0,73570.4275,123500.8,19
+Napa,Care & social services,81562.0,73981.0,89425.0,6
+Napa,Education & childcare,42380.0,40690.0,44070.0,2
+Napa,Engineering & science (non-software),66404.0,48620.0,88946.0,4
+Napa,Food service,43680.0,37336.0,50663.600000000006,39
+Napa,Healthcare practitioners & support,106836.6,67350.4,150638.8,47
+Napa,Management (general),70320.0,55120.0,114857.6,9
+Napa,Office & administrative support,45760.0,43160.0,64443.600000000006,7
+Napa,Personal care & service,43680.0,42120.0,53560.0,11
+Napa,Protective & building services,40560.0,38667.2,83418.0,13
+Napa,Retail & customer service,45760.0,43680.0,49920.0,21
+Napa,Sales,77950.0,66335.0,95062.5,8
+Napa,"Skilled trades, maintenance & repair",62774.4,50440.0,79458.0,18
+Napa,"Software, data & IT",83200.0,71604.0,114018.85750000001,3
+Napa,"Transportation, warehouse & logistics",55640.0,43615.0,62850.0,6
+Newark,"Business, finance & HR",77475.0,59800.0,104733.5,4
+Newark,Care & social services,71340.0,57510.0,85170.0,2
+Newark,Education & childcare,47320.0,44460.0,55380.0,3
+Newark,Engineering & science (non-software),85000.0,82750.0,92500.0,9
+Newark,Food service,48880.0,39910.0,50960.0,10
+Newark,Healthcare practitioners & support,87360.0,69940.0,87360.0,5
+Newark,Management (general),85000.0,69140.0,120000.0,6
+Newark,Office & administrative support,52500.0,48090.0,54116.8,3
+Newark,Personal care & service,69212.0,69212.0,69212.0,1
+Newark,Protective & building services,37180.0,37180.0,37180.0,1
+Newark,Retail & customer service,44720.0,43680.0,52650.0,11
+Newark,Sales,81000.0,51500.0,133750.0,4
+Newark,"Skilled trades, maintenance & repair",47840.0,41600.0,59280.0,25
+Newark,"Software, data & IT",135200.0,98800.0,159970.0,9
+Newark,"Transportation, warehouse & logistics",50440.0,47320.0,62140.0,6
+Novato,"Business, finance & HR",72500.0,67298.4,87500.0,9
+Novato,Care & social services,114960.0,82440.0,147480.0,2
+Novato,Education & childcare,47320.0,43420.0,51220.0,2
+Novato,Food service,48880.0,43284.8,54080.0,7
+Novato,Healthcare practitioners & support,111560.25,71240.0,148200.0,28
+Novato,Management (general),85280.0,67080.0,88016.125,3
+Novato,Office & administrative support,56004.0,55666.0,57460.0,4
+Novato,Personal care & service,38480.0,38480.0,38480.0,1
+Novato,Protective & building services,49920.0,49920.0,49920.0,1
+Novato,Retail & customer service,54080.0,51038.0,54770.0,6
+Novato,Sales,65700.0,58100.0,73300.0,2
+Novato,"Skilled trades, maintenance & repair",65470.0,51220.0,73035.0,10
+Novato,"Software, data & IT",85500.0,85500.0,85500.0,1
+Novato,"Transportation, warehouse & logistics",45240.0,41059.2,53820.0,3
+Oakland,"Business, finance & HR",99936.25,75492.5,136926.42,102
+Oakland,Care & social services,65520.0,56243.2,101504.0,41
+Oakland,Education & childcare,62695.2,54912.0,87751.15,31
+Oakland,Engineering & science (non-software),110000.0,90000.0,128669.0,21
+Oakland,Food service,49920.0,41600.0,57980.0,28
+Oakland,Healthcare practitioners & support,103750.0,65605.8,163082.40000000002,118
+Oakland,Management (general),94400.0,69725.0,153544.59999999998,32
+Oakland,Office & administrative support,58344.0,45760.0,80225.6,37
+Oakland,Personal care & service,58510.4,39520.0,72500.0,9
+Oakland,Protective & building services,60320.0,42640.0,84256.4,34
+Oakland,Retail & customer service,45760.0,41366.0,53736.8,27
+Oakland,Sales,75000.0,43160.0,95000.0,34
+Oakland,"Skilled trades, maintenance & repair",60320.0,52000.0,78000.0,53
+Oakland,"Software, data & IT",155500.0,104891.125,170400.0,36
+Oakland,"Transportation, warehouse & logistics",50960.0,45760.0,66000.0,33
+Oakley,Food service,41600.0,41600.0,41600.0,3
+Oakley,Healthcare practitioners & support,95680.0,95680.0,116303.2,3
+Oakley,Management (general),88500.0,82000.0,88500.0,3
+Oakley,Office & administrative support,52000.0,52000.0,52000.0,1
+Oakley,Protective & building services,82850.0,82850.0,82850.0,1
+Oakley,Retail & customer service,44720.0,44720.0,44720.0,1
+Oakley,"Transportation, warehouse & logistics",46280.0,43550.0,49595.0,4
+Orinda,Engineering & science (non-software),80000.0,80000.0,80000.0,1
+Orinda,Healthcare practitioners & support,43160.0,41210.0,46280.0,4
+Orinda,Retail & customer service,70570.0,69605.0,71535.0,2
+Pacifica,"Business, finance & HR",56160.0,56160.0,56160.0,1
+Pacifica,Care & social services,47840.0,47840.0,47840.0,1
+Pacifica,Food service,50960.0,47964.8,54080.0,3
+Pacifica,Healthcare practitioners & support,54080.0,48880.0,58240.0,4
+Pacifica,Office & administrative support,43680.0,43680.0,43680.0,1
+Pacifica,Retail & customer service,42120.0,37960.0,47060.0,6
+Pacifica,Sales,80900.0,80900.0,80900.0,3
+Palo Alto,"Business, finance & HR",97100.0,75315.0,131062.5,48
+Palo Alto,Care & social services,80839.2,60580.0,112353.25,8
+Palo Alto,Education & childcare,79040.0,56160.0,97321.0,17
+Palo Alto,Engineering & science (non-software),143600.0,94738.8,186000.0,91
+Palo Alto,Food service,46800.0,43680.0,52000.0,37
+Palo Alto,Healthcare practitioners & support,109896.79999999999,78015.59999999999,174038.8,75
+Palo Alto,Management (general),92600.0,56680.0,159623.2,19
+Palo Alto,Office & administrative support,67600.0,54007.2,77219.79999999999,28
+Palo Alto,Personal care & service,43680.0,42224.0,44720.0,4
+Palo Alto,Protective & building services,43680.0,41600.0,45188.0,7
+Palo Alto,Retail & customer service,47616.4,44434.0,68675.0,14
+Palo Alto,Sales,96000.0,81300.0,162587.5,10
+Palo Alto,"Skilled trades, maintenance & repair",69508.40000000001,52910.0,87388.6,30
+Palo Alto,"Software, data & IT",195000.0,155500.0,250000.0,243
+Palo Alto,"Transportation, warehouse & logistics",72775.0,61282.0,96686.6,12
+Petaluma,"Business, finance & HR",59280.0,55580.0,75880.0,7
+Petaluma,Care & social services,43680.0,40040.0,70710.0,7
+Petaluma,Education & childcare,65520.0,42962.399999999994,70000.0,5
+Petaluma,Engineering & science (non-software),80000.0,80000.0,80000.0,1
+Petaluma,Food service,43804.8,40003.59999999999,49920.0,15
+Petaluma,Healthcare practitioners & support,126987.2,53040.0,148462.25,28
+Petaluma,Management (general),67600.0,59020.0,69000.0,5
+Petaluma,Office & administrative support,44720.0,43680.0,54080.0,9
+Petaluma,Personal care & service,45500.0,43810.0,47190.0,2
+Petaluma,Protective & building services,43680.0,41761.2,50590.0,3
+Petaluma,Retail & customer service,45760.0,41600.0,58240.0,15
+Petaluma,Sales,67500.0,59000.5,71011.0,3
+Petaluma,"Skilled trades, maintenance & repair",55120.0,44720.0,75244.0,13
+Petaluma,"Software, data & IT",114400.0,114400.0,114400.0,1
+Petaluma,"Transportation, warehouse & logistics",46670.0,43940.0,58474.0,10
+Piedmont,Care & social services,41080.0,41080.0,41080.0,1
+Piedmont,Healthcare practitioners & support,106841.5,90860.75,122822.25,2
+Piedmont,"Skilled trades, maintenance & repair",109200.0,109200.0,109200.0,1
+Pinole,"Business, finance & HR",65520.0,65520.0,65520.0,1
+Pinole,Care & social services,103080.0,79620.0,126540.0,2
+Pinole,Education & childcare,63440.0,63440.0,63440.0,1
+Pinole,Food service,48880.0,44720.0,50960.0,5
+Pinole,Healthcare practitioners & support,59280.0,57200.0,63000.0,9
+Pinole,Management (general),57760.0,53880.0,61640.0,2
+Pinole,Office & administrative support,37752.0,37752.0,37752.0,1
+Pinole,Retail & customer service,47840.0,42510.0,54340.0,6
+Pinole,"Skilled trades, maintenance & repair",77240.0,57860.0,96620.0,2
+Pinole,"Transportation, warehouse & logistics",53040.0,53040.0,53040.0,1
+Pittsburg,"Business, finance & HR",56160.0,56160.0,67600.0,5
+Pittsburg,Care & social services,59800.0,41600.0,60320.0,5
+Pittsburg,Education & childcare,134160.0,134160.0,134160.0,1
+Pittsburg,Engineering & science (non-software),57168.799999999996,49384.399999999994,64953.2,2
+Pittsburg,Food service,43284.8,41600.0,47840.0,8
+Pittsburg,Healthcare practitioners & support,107640.0,87620.0,118600.0,6
+Pittsburg,Management (general),49920.0,43940.0,57720.0,3
+Pittsburg,Office & administrative support,46098.0,40752.4,50596.0,4
+Pittsburg,Personal care & service,48880.0,43160.0,52520.0,3
+Pittsburg,Protective & building services,41600.0,39260.0,42120.0,3
+Pittsburg,Retail & customer service,43680.0,38771.2,44720.0,13
+Pittsburg,Sales,57880.0,51820.0,63940.0,2
+Pittsburg,"Skilled trades, maintenance & repair",55120.0,45695.0,78293.875,8
+Pittsburg,"Transportation, warehouse & logistics",79400.0,45500.0,131125.0,4
+Pleasant Hill,"Business, finance & HR",64060.0,56160.0,69940.0,5
+Pleasant Hill,Care & social services,43680.0,41028.0,45240.0,3
+Pleasant Hill,Food service,41600.0,39988.0,49920.0,11
+Pleasant Hill,Healthcare practitioners & support,110240.0,96330.0,132171.0,12
+Pleasant Hill,Management (general),53040.0,49920.0,56160.0,2
+Pleasant Hill,Office & administrative support,64500.0,64500.0,64500.0,1
+Pleasant Hill,Protective & building services,37440.0,36140.0,83361.0,3
+Pleasant Hill,Retail & customer service,38480.0,36764.0,48360.0,11
+Pleasant Hill,Sales,51550.0,46575.0,56525.0,2
+Pleasant Hill,"Skilled trades, maintenance & repair",57200.0,54080.0,73750.0,7
+Pleasant Hill,"Transportation, warehouse & logistics",72176.0,72176.0,72176.0,1
+Pleasanton,"Business, finance & HR",88400.0,72140.85500000001,148200.0,21
+Pleasanton,Care & social services,56680.0,45240.0,78290.4175,11
+Pleasanton,Education & childcare,59540.0,50024.0,80470.0,4
+Pleasanton,Engineering & science (non-software),96798.0,78186.0,102846.2,16
+Pleasanton,Food service,50960.0,43284.8,54600.0,11
+Pleasanton,Healthcare practitioners & support,116962.0,64773.8,152625.0,38
+Pleasanton,Management (general),87360.0,84370.0,160000.0,9
+Pleasanton,Office & administrative support,62500.0,57200.0,66560.0,9
+Pleasanton,Personal care & service,38178.399999999994,38178.399999999994,38178.399999999994,1
+Pleasanton,Protective & building services,36920.0,35360.0,44720.0,5
+Pleasanton,Retail & customer service,45760.0,43180.8,51000.0,17
+Pleasanton,Sales,70000.0,58750.0,75000.0,15
+Pleasanton,"Skilled trades, maintenance & repair",60320.0,51610.0,74432.8,19
+Pleasanton,"Software, data & IT",136250.0,110119.75,156000.0,22
+Pleasanton,"Transportation, warehouse & logistics",54080.0,47320.0,67308.8,7
+Portola Valley,Healthcare practitioners & support,67366.0,65377.0,69355.0,2
+Portola Valley,Office & administrative support,53185.600000000006,53185.600000000006,53185.600000000006,1
+Portola Valley,Protective & building services,42494.4,42494.4,45167.2,3
+Redwood City,"Business, finance & HR",88400.0,62400.0,139500.0,17
+Redwood City,Care & social services,69680.0,59020.0,91197.6,3
+Redwood City,Education & childcare,59488.0,50377.600000000006,75691.20000000001,11
+Redwood City,Engineering & science (non-software),110000.0,85575.0,139000.0,11
+Redwood City,Food service,48880.0,43680.0,52000.0,13
+Redwood City,Healthcare practitioners & support,120390.4,78000.0,152100.0,43
+Redwood City,Management (general),100800.0,75015.2,135211.25,12
+Redwood City,Office & administrative support,66560.0,52000.0,75982.4,17
+Redwood City,Personal care & service,70720.0,65360.0,71760.0,3
+Redwood City,Protective & building services,49233.6,43680.0,146577.6,9
+Redwood City,Retail & customer service,45396.0,43534.4,61620.0,11
+Redwood City,Sales,97500.0,70890.5,126250.0,16
+Redwood City,"Skilled trades, maintenance & repair",58136.0,52000.0,72800.0,17
+Redwood City,"Software, data & IT",160000.0,146225.0,186000.0,23
+Redwood City,"Transportation, warehouse & logistics",54080.0,49270.0,62535.2,7
+Richmond,"Business, finance & HR",114600.0,62103.6,122500.0,8
+Richmond,Care & social services,75004.79999999999,55754.399999999994,96340.4,8
+Richmond,Education & childcare,80750.0,80750.0,80750.0,12
+Richmond,Engineering & science (non-software),89478.0,58240.0,105000.0,13
+Richmond,Food service,48880.0,43680.0,50960.0,5
+Richmond,Healthcare practitioners & support,119600.0,71210.0,145600.0,14
+Richmond,Management (general),76951.0,62660.0,90938.48999999999,8
+Richmond,Office & administrative support,75000.0,51840.0,84481.0,7
+Richmond,Protective & building services,112325.28,85287.92,126868.32,4
+Richmond,Retail & customer service,48620.0,41516.8,59280.0,4
+Richmond,Sales,80900.0,77575.0,86675.0,4
+Richmond,"Skilled trades, maintenance & repair",57200.0,51875.2,66040.0,23
+Richmond,"Software, data & IT",124800.0,119736.0,141375.0,4
+Richmond,"Transportation, warehouse & logistics",54860.0,49920.0,66560.0,24
+Rio Vista,Care & social services,62920.0,58500.0,67340.0,2
+Rio Vista,Healthcare practitioners & support,183040.0,113360.0,252720.0,2
+Rio Vista,Sales,281920.0,281920.0,281920.0,1
+Rio Vista,"Transportation, warehouse & logistics",62400.0,62400.0,62400.0,1
+Rodeo,Healthcare practitioners & support,192400.0,192400.0,192400.0,1
+Rodeo,Management (general),65769.59999999999,65769.59999999999,65769.59999999999,1
+Rodeo,Office & administrative support,47351.2,47351.2,47351.2,1
+Rodeo,Retail & customer service,38480.0,38480.0,38480.0,1
+Rodeo,"Skilled trades, maintenance & repair",49660.0,42510.0,56810.0,2
+Rodeo,"Transportation, warehouse & logistics",69492.8,69492.8,69492.8,1
+Rohnert Park,"Business, finance & HR",58188.0,57174.0,84491.5,7
+Rohnert Park,Care & social services,58240.0,45500.0,65520.0,6
+Rohnert Park,Food service,46800.0,34580.0,49920.0,7
+Rohnert Park,Healthcare practitioners & support,118713.5,69680.0,153280.0,17
+Rohnert Park,Management (general),65500.0,57710.0,89000.0,3
+Rohnert Park,Office & administrative support,54600.0,43940.0,66554.8,4
+Rohnert Park,Personal care & service,41600.0,39520.0,52000.0,3
+Rohnert Park,Protective & building services,50119.0,49178.5,53121.0,4
+Rohnert Park,Retail & customer service,41600.0,38417.600000000006,43160.0,19
+Rohnert Park,"Skilled trades, maintenance & repair",68190.0,58015.0,75695.0,3
+Rohnert Park,"Transportation, warehouse & logistics",46800.0,45240.0,63147.51,3
+San Anselmo,Care & social services,47840.0,47840.0,47840.0,1
+San Anselmo,Healthcare practitioners & support,102500.0,102500.0,102500.0,2
+San Anselmo,Office & administrative support,70200.0,70200.0,70200.0,1
+San Bruno,"Business, finance & HR",67891.2,40000.0,121000.0,9
+San Bruno,Care & social services,104500.0,89690.0,111250.0,4
+San Bruno,Education & childcare,54600.0,54600.0,54600.0,1
+San Bruno,Engineering & science (non-software),123000.0,123000.0,123000.0,1
+San Bruno,Food service,50960.0,49920.0,54080.0,3
+San Bruno,Healthcare practitioners & support,54080.0,47060.0,106600.0,7
+San Bruno,Management (general),88250.0,79826.0,134125.0,3
+San Bruno,Office & administrative support,41600.0,41600.0,41600.0,1
+San Bruno,Protective & building services,38376.0,38376.0,38376.0,1
+San Bruno,Retail & customer service,49353.2,40820.0,78026.6,6
+San Bruno,Sales,80900.0,77569.0,113130.0,4
+San Bruno,"Skilled trades, maintenance & repair",58760.0,47840.0,65585.0,8
+San Bruno,"Software, data & IT",179000.0,154500.0,179000.0,11
+San Bruno,"Transportation, warehouse & logistics",51480.0,50180.0,52780.0,2
+San Carlos,"Business, finance & HR",62160.8,52000.0,105000.0,9
+San Carlos,Education & childcare,57200.0,55640.0,66300.0,3
+San Carlos,Engineering & science (non-software),85800.0,73125.0,130964.40000000001,8
+San Carlos,Food service,53040.0,47320.0,65000.0,4
+San Carlos,Healthcare practitioners & support,72800.0,58240.0,109720.0,8
+San Carlos,Management (general),68068.0,55822.0,85060.0,4
+San Carlos,Office & administrative support,70002.4,69284.8,73247.2,3
+San Carlos,Protective & building services,49660.0,48490.0,50830.0,2
+San Carlos,Retail & customer service,43680.0,43170.4,46800.0,13
+San Carlos,Sales,80900.0,76214.9475,92500.0,11
+San Carlos,"Skilled trades, maintenance & repair",68317.6,57460.0,72800.0,14
+San Carlos,"Software, data & IT",240000.0,148200.0,250000.0,17
+San Carlos,"Transportation, warehouse & logistics",73507.2,56420.0,93300.79999999999,4
+San Francisco,"Business, finance & HR",115000.0,80000.0,159925.0,614
+San Francisco,Care & social services,72675.20000000001,61448.399999999994,102728.0,78
+San Francisco,Education & childcare,69087.2,57600.0,105444.0,83
+San Francisco,Engineering & science (non-software),175000.0,130000.0,225000.0,329
+San Francisco,Food service,48859.2,42234.399999999994,59737.600000000006,139
+San Francisco,Healthcare practitioners & support,110000.0,72800.0,183718.0,351
+San Francisco,Management (general),120285.25,79806.75,186150.0,192
+San Francisco,Office & administrative support,62930.399999999994,54080.0,81803.25,187
+San Francisco,Personal care & service,67038.4,56191.2,70907.2,34
+San Francisco,Protective & building services,57350.0,48672.0,70397.6,80
+San Francisco,Retail & customer service,52000.0,45089.72,72956.0,107
+San Francisco,Sales,115000.0,85000.0,165000.0,289
+San Francisco,"Skilled trades, maintenance & repair",70000.0,59280.0,97110.0,155
+San Francisco,"Software, data & IT",200000.0,160000.0,245250.0,957
+San Francisco,"Transportation, warehouse & logistics",56680.0,47840.0,74940.0,75
+San Jose,"Business, finance & HR",91560.235,66100.29999999999,130000.0,250
+San Jose,Care & social services,63440.0,54600.0,102500.0,71
+San Jose,Education & childcare,60320.0,47840.0,81138.0,69
+San Jose,Engineering & science (non-software),121340.0,91375.0,185550.0,144
+San Jose,Food service,44969.6,41600.0,55120.0,107
+San Jose,Healthcare practitioners & support,104000.0,62400.0,130000.0,314
+San Jose,Management (general),79000.0,54080.0,123750.0,99
+San Jose,Office & administrative support,60372.0,49920.0,83200.0,93
+San Jose,Personal care & service,57751.2,45760.0,66040.0,24
+San Jose,Protective & building services,49379.2,42060.200000000004,65476.375,36
+San Jose,Retail & customer service,44720.0,42640.0,55525.600000000006,130
+San Jose,Sales,77500.0,58370.0,103250.0,131
+San Jose,"Skilled trades, maintenance & repair",62400.0,52000.0,80000.0,192
+San Jose,"Software, data & IT",192000.0,130000.0,236400.0,501
+San Jose,"Transportation, warehouse & logistics",52000.0,47840.0,65130.0,84
+San Leandro,"Business, finance & HR",64480.0,57720.0,92934.0,23
+San Leandro,Care & social services,55120.0,50480.0,63960.0,11
+San Leandro,Education & childcare,50960.0,49701.6,59800.0,3
+San Leandro,Engineering & science (non-software),84750.0,60294.0,98365.0,10
+San Leandro,Food service,44720.0,41600.0,49920.0,15
+San Leandro,Healthcare practitioners & support,115000.0,60320.0,135200.0,35
+San Leandro,Management (general),76997.05,69855.0,96092.5,8
+San Leandro,Office & administrative support,60372.0,53040.0,65239.2,9
+San Leandro,Personal care & service,115000.0,115000.0,115000.0,1
+San Leandro,Protective & building services,97271.2,36140.0,162434.3,4
+San Leandro,Retail & customer service,44720.0,40560.0,47400.0,19
+San Leandro,Sales,80900.0,74522.0,95232.0,13
+San Leandro,"Skilled trades, maintenance & repair",77740.0,55640.0,103547.6,16
+San Leandro,"Software, data & IT",156900.0,135950.0,163450.0,3
+San Leandro,"Transportation, warehouse & logistics",49254.399999999994,46384.0,66040.0,27
+San Lorenzo,Food service,57200.0,57200.0,57200.0,1
+San Lorenzo,Healthcare practitioners & support,73700.0,58240.0,112843.75,4
+San Lorenzo,"Skilled trades, maintenance & repair",69291.64,61561.020000000004,77022.26000000001,2
+San Mateo,"Business, finance & HR",92500.0,68640.0,136437.6,41
+San Mateo,Care & social services,70189.6,56420.0,97834.54999999999,14
+San Mateo,Education & childcare,60320.0,52000.0,72800.0,17
+San Mateo,Engineering & science (non-software),139828.0,121960.79999999999,175000.0,21
+San Mateo,Food service,44969.6,42120.0,48360.0,23
+San Mateo,Healthcare practitioners & support,78020.8,55120.0,118750.0,53
+San Mateo,Management (general),72500.0,52884.0,107500.0,13
+San Mateo,Office & administrative support,60320.0,51906.4,76866.4,31
+San Mateo,Personal care & service,42328.0,41964.0,43004.0,3
+San Mateo,Protective & building services,58198.4,47460.4,76362.0,8
+San Mateo,Retail & customer service,44720.0,42796.0,48880.0,27
+San Mateo,Sales,82500.0,67500.0,157500.0,13
+San Mateo,"Skilled trades, maintenance & repair",74963.2,51780.0,104970.0,16
+San Mateo,"Software, data & IT",174935.0,143750.0,197500.0,42
+San Mateo,"Transportation, warehouse & logistics",62400.0,48791.6,110266.0,8
+San Pablo,"Business, finance & HR",53040.0,53040.0,53040.0,1
+San Pablo,Care & social services,40060.8,40060.8,40060.8,1
+San Pablo,Education & childcare,57200.0,57200.0,57200.0,1
+San Pablo,Food service,41600.0,41600.0,43160.0,6
+San Pablo,Healthcare practitioners & support,140894.0,116220.0,190027.0,6
+San Pablo,Office & administrative support,41600.0,41600.0,41600.0,1
+San Pablo,Protective & building services,40560.0,40560.0,40560.0,2
+San Pablo,Retail & customer service,40976.0,38909.0,43004.0,6
+San Pablo,Sales,162000.0,162000.0,162000.0,1
+San Pablo,"Skilled trades, maintenance & repair",65000.0,55484.0,68224.0,3
+San Pablo,"Software, data & IT",162500.0,162500.0,162500.0,1
+San Pablo,"Transportation, warehouse & logistics",55120.0,55120.0,55120.0,2
+San Rafael,"Business, finance & HR",75000.0,51480.0,87175.0,10
+San Rafael,Care & social services,54600.0,53040.0,62250.0,15
+San Rafael,Education & childcare,55697.2,50180.0,89375.0,10
+San Rafael,Engineering & science (non-software),90880.0,66820.0,114767.625,4
+San Rafael,Food service,47205.600000000006,42120.0,50960.0,9
+San Rafael,Healthcare practitioners & support,101920.0,57938.4,135720.0,47
+San Rafael,Management (general),73000.0,53040.0,85581.6,9
+San Rafael,Office & administrative support,54600.0,51334.399999999994,68031.6,8
+San Rafael,Personal care & service,42120.0,42120.0,42120.0,1
+San Rafael,Protective & building services,66040.0,50180.0,102429.0,10
+San Rafael,Retail & customer service,47320.0,43940.0,54250.0,26
+San Rafael,Sales,52499.2,49170.5,76700.0,7
+San Rafael,"Skilled trades, maintenance & repair",55120.0,53040.0,96175.0,11
+San Rafael,"Software, data & IT",134503.2,95851.6,143910.1,3
+San Rafael,"Transportation, warehouse & logistics",46800.0,43160.0,52000.0,6
+San Ramon,"Business, finance & HR",85000.0,58240.0,109038.15,19
+San Ramon,Care & social services,58240.0,58240.0,58240.0,1
+San Ramon,Education & childcare,47580.0,46670.0,48750.0,3
+San Ramon,Engineering & science (non-software),122000.0,106500.0,137500.0,2
+San Ramon,Food service,48880.0,43680.0,52000.0,9
+San Ramon,Healthcare practitioners & support,93600.0,66040.0,130520.0,19
+San Ramon,Management (general),90000.0,65260.0,92035.0,7
+San Ramon,Office & administrative support,63034.4,59217.6,73940.4,7
+San Ramon,Personal care & service,51948.0,44642.0,59254.0,2
+San Ramon,Protective & building services,47953.6,43180.399999999994,52726.8,2
+San Ramon,Retail & customer service,46280.0,37154.0,50180.0,16
+San Ramon,Sales,70000.0,64535.0,80900.0,10
+San Ramon,"Skilled trades, maintenance & repair",58193.2,51228.0,71005.0,10
+San Ramon,"Software, data & IT",129250.0,83500.0,156000.0,12
+San Ramon,"Transportation, warehouse & logistics",48869.6,48604.399999999994,49394.8,4
+Santa Clara,"Business, finance & HR",107750.0,79500.0,167812.5,72
+Santa Clara,Care & social services,74141.6,56160.0,102500.0,13
+Santa Clara,Education & childcare,57200.0,52000.0,60320.0,12
+Santa Clara,Engineering & science (non-software),146750.0,108775.0,182517.5,136
+Santa Clara,Food service,46800.0,40560.0,53560.0,38
+Santa Clara,Healthcare practitioners & support,148106.4,67080.0,173570.2,51
+Santa Clara,Management (general),141925.0,59800.0,188250.0,29
+Santa Clara,Office & administrative support,62400.0,47320.0,84569.79999999999,30
+Santa Clara,Personal care & service,83636.8,57855.200000000004,120900.0,4
+Santa Clara,Protective & building services,63065.600000000006,47437.0,129788.75,12
+Santa Clara,Retail & customer service,45416.8,42484.0,59059.0,52
+Santa Clara,Sales,110000.0,81250.0,191875.0,39
+Santa Clara,"Skilled trades, maintenance & repair",61080.0,52000.0,83000.0,74
+Santa Clara,"Software, data & IT",183200.0,147687.5,214562.5,176
+Santa Clara,"Transportation, warehouse & logistics",51480.0,47840.0,62660.0,30
+Santa Rosa,"Business, finance & HR",77247.505,56160.0,119062.5,28
+Santa Rosa,Care & social services,80000.0,52603.2,118000.0,25
+Santa Rosa,Education & childcare,53040.0,40820.0,223444.0,11
+Santa Rosa,Engineering & science (non-software),93500.0,75081.6,123921.20000000001,12
+Santa Rosa,Food service,44720.0,38922.0,48880.0,30
+Santa Rosa,Healthcare practitioners & support,113787.0,73325.2,170397.4,128
+Santa Rosa,Management (general),70304.04000000001,51188.8,105000.0,13
+Santa Rosa,Office & administrative support,52000.0,46800.0,74292.0,29
+Santa Rosa,Personal care & service,42120.0,39218.4,56160.0,9
+Santa Rosa,Protective & building services,75669.6,48859.2,117029.75,23
+Santa Rosa,Retail & customer service,43544.8,40669.2,49290.8,47
+Santa Rosa,Sales,70000.0,50440.0,78850.0,19
+Santa Rosa,"Skilled trades, maintenance & repair",62400.0,52520.0,78000.0,57
+Santa Rosa,"Software, data & IT",160790.0,106655.0,160875.0,3
+Santa Rosa,"Transportation, warehouse & logistics",56378.4,44064.8,64480.0,21
+Saratoga,"Business, finance & HR",56160.0,56160.0,56160.0,1
+Saratoga,Care & social services,49348.0,46800.0,54782.0,4
+Saratoga,Education & childcare,55640.0,49140.0,76856.0,12
+Saratoga,Engineering & science (non-software),137500.0,76652.0,170000.0,5
+Saratoga,Food service,45760.0,45760.0,45760.0,1
+Saratoga,Healthcare practitioners & support,105000.0,89440.0,105000.0,9
+Saratoga,Management (general),83200.0,83200.0,83200.0,1
+Saratoga,Office & administrative support,62400.0,50440.0,62920.0,3
+Saratoga,Personal care & service,43680.0,39520.0,58240.0,3
+Saratoga,Protective & building services,39520.0,39520.0,39520.0,1
+Saratoga,Sales,125000.0,125000.0,125000.0,1
+Saratoga,"Software, data & IT",145000.0,145000.0,155625.0,4
+Saratoga,"Transportation, warehouse & logistics",95000.0,95000.0,95000.0,1
+Sausalito,"Business, finance & HR",115000.0,93570.4275,157500.0,3
+Sausalito,Care & social services,47840.0,47840.0,47840.0,1
+Sausalito,Education & childcare,43825.600000000006,39738.4,47912.8,2
+Sausalito,Food service,54080.0,50440.0,61360.0,4
+Sausalito,Healthcare practitioners & support,120640.0,120640.0,120640.0,1
+Sausalito,Management (general),92300.0,73450.0,111150.0,2
+Sausalito,Office & administrative support,63918.4,59477.600000000006,68359.2,2
+Sausalito,Retail & customer service,48172.8,48172.8,48172.8,1
+Sausalito,Sales,52000.0,52000.0,52000.0,1
+Sausalito,"Skilled trades, maintenance & repair",62400.0,62400.0,62400.0,2
+Sebastopol,"Business, finance & HR",56160.0,56160.0,56160.0,1
+Sebastopol,Care & social services,62056.8,56685.200000000004,67428.4,2
+Sebastopol,Food service,41600.0,41600.0,42744.0,5
+Sebastopol,Healthcare practitioners & support,87360.0,45760.0,125000.0,13
+Sebastopol,Office & administrative support,46800.0,44740.8,49660.0,4
+Sebastopol,"Skilled trades, maintenance & repair",61360.0,54860.0,70325.0,8
+Sebastopol,"Software, data & IT",45988.799999999996,45988.799999999996,45988.799999999996,1
+Sebastopol,"Transportation, warehouse & logistics",59397.0,51538.5,67255.5,2
+Sonoma,"Business, finance & HR",61657.905,52928.9525,70386.8575,2
+Sonoma,Care & social services,56160.0,50460.8,56607.2,5
+Sonoma,Engineering & science (non-software),77500.0,77500.0,77500.0,1
+Sonoma,Food service,51480.0,48880.0,59540.0,14
+Sonoma,Healthcare practitioners & support,72935.2,62888.799999999996,134295.2,17
+Sonoma,Management (general),91510.0,59670.0,156643.175,4
+Sonoma,Office & administrative support,51636.0,46261.799999999996,59696.0,8
+Sonoma,Personal care & service,55120.0,52520.0,57720.0,2
+Sonoma,Protective & building services,51989.600000000006,45754.8,58224.4,2
+Sonoma,Retail & customer service,51012.0,45240.0,59828.600000000006,12
+Sonoma,Sales,77500.0,77500.0,77500.0,1
+Sonoma,"Skilled trades, maintenance & repair",72800.0,64178.4,77500.0,7
+Sonoma,"Transportation, warehouse & logistics",44168.8,41293.2,47044.4,2
+South San Francisco,"Business, finance & HR",63440.0,58750.0,87250.0,11
+South San Francisco,Care & social services,62400.0,55640.0,66872.0,5
+South San Francisco,Education & childcare,53924.0,49400.0,60660.0,8
+South San Francisco,Engineering & science (non-software),101348.0,88227.6,131875.0,23
+South San Francisco,Food service,44460.0,38844.0,50700.0,6
+South San Francisco,Healthcare practitioners & support,117500.0,65458.4,166750.0,19
+South San Francisco,Management (general),100300.0,60424.0,142910.0,4
+South San Francisco,Office & administrative support,58240.0,53210.0,60600.0,8
+South San Francisco,Protective & building services,48880.0,48880.0,48880.0,1
+South San Francisco,Retail & customer service,43092.4,39793.0,57685.0,12
+South San Francisco,Sales,105000.0,82214.76000000001,134400.0,7
+South San Francisco,"Skilled trades, maintenance & repair",65000.0,48282.0,75140.0,12
+South San Francisco,"Software, data & IT",166524.80000000002,150384.0,215250.0,15
+South San Francisco,"Transportation, warehouse & logistics",53560.0,48620.0,54340.0,24
+St Helena,"Business, finance & HR",67270.4275,64835.21375,69705.64125000002,2
+St Helena,Food service,41054.0,37440.0,45500.0,8
+St Helena,Healthcare practitioners & support,130587.6,84864.0,149996.59999999998,18
+St Helena,Management (general),140782.0,115391.0,166173.0,2
+St Helena,Office & administrative support,63367.200000000004,60000.0,91654.5,5
+St Helena,Retail & customer service,44720.0,42094.0,46800.0,3
+St Helena,"Skilled trades, maintenance & repair",49920.0,49920.0,49920.0,1
+Stanford,"Business, finance & HR",133000.0,108203.67,136707.75,7
+Stanford,Education & childcare,68900.0,58240.0,86002.79999999999,6
+Stanford,Engineering & science (non-software),122672.45,114011.475,131333.425,2
+Stanford,Food service,56160.0,52520.0,66551.875,4
+Stanford,Healthcare practitioners & support,85280.0,75998.0,101102.25,8
+Stanford,Management (general),80121.6,80121.6,80121.6,1
+Stanford,Office & administrative support,73184.79999999999,72992.4,78068.65,3
+Stanford,Sales,137500.0,137500.0,137500.0,1
+Stanford,"Skilled trades, maintenance & repair",96969.54999999999,95151.125,102538.79999999999,4
+Stanford,"Software, data & IT",96650.5,84500.0,129383.625,8
+Suisun City,"Business, finance & HR",58950.0,50925.0,66975.0,2
+Suisun City,Care & social services,37440.0,37440.0,37440.0,2
+Suisun City,Food service,49660.0,45890.0,53430.0,2
+Suisun City,Management (general),65520.0,65520.0,65520.0,1
+Suisun City,Retail & customer service,55120.0,55120.0,55120.0,1
+Suisun City,"Skilled trades, maintenance & repair",46020.0,40430.0,51610.0,2
+Sunnyvale,"Business, finance & HR",107500.0,64500.0,140400.0,37
+Sunnyvale,Care & social services,85000.0,47320.0,102500.0,5
+Sunnyvale,Education & childcare,55120.0,54340.0,55907.8,10
+Sunnyvale,Engineering & science (non-software),145300.0,100000.0,177300.0,46
+Sunnyvale,Food service,47840.0,44969.6,52260.0,16
+Sunnyvale,Healthcare practitioners & support,112500.0,57350.0,145125.0,35
+Sunnyvale,Management (general),142075.0,66975.0,201777.5,8
+Sunnyvale,Office & administrative support,62400.0,52026.0,76750.0,11
+Sunnyvale,Personal care & service,45760.0,45760.0,47840.0,3
+Sunnyvale,Protective & building services,47840.0,42151.2,55244.0,7
+Sunnyvale,Retail & customer service,45760.0,43680.0,48880.0,17
+Sunnyvale,Sales,80900.0,61227.815,110000.0,9
+Sunnyvale,"Skilled trades, maintenance & repair",59120.0,49660.0,67755.0,22
+Sunnyvale,"Software, data & IT",179000.0,160500.0,198000.0,219
+Sunnyvale,"Transportation, warehouse & logistics",57500.0,48386.0,101700.0,7
+Sunol,Engineering & science (non-software),115000.0,115000.0,115000.0,1
+Sunol,"Skilled trades, maintenance & repair",150000.0,150000.0,150000.0,1
+Tiburon,Care & social services,40560.0,40560.0,40560.0,1
+Tiburon,Food service,47320.0,41548.0,51220.0,4
+Tiburon,Healthcare practitioners & support,107500.0,107500.0,107500.0,1
+Tiburon,Office & administrative support,46800.0,46280.0,47320.0,2
+Tiburon,Retail & customer service,57200.0,57200.0,57200.0,1
+Tiburon,"Software, data & IT",89500.0,84250.0,94750.0,2
+Union City,"Business, finance & HR",75000.0,58240.0,177500.0,5
+Union City,Care & social services,61360.0,50432.2,71500.0,6
+Union City,Education & childcare,83385.0,83385.0,83385.0,1
+Union City,Engineering & science (non-software),84250.0,77445.0,86875.0,4
+Union City,Food service,46404.8,43217.2,50960.0,4
+Union City,Healthcare practitioners & support,100000.0,91520.0,138070.4,13
+Union City,Management (general),59400.0,55798.8,74268.25,3
+Union City,Office & administrative support,42718.0,38818.0,50947.0,4
+Union City,Personal care & service,109200.0,89206.0,119600.0,3
+Union City,Protective & building services,41548.0,39494.0,43602.0,2
+Union City,Retail & customer service,44720.0,43680.0,51170.6,10
+Union City,Sales,74200.0,70850.0,77550.0,2
+Union City,"Skilled trades, maintenance & repair",49400.0,43160.0,59540.0,14
+Union City,"Software, data & IT",149076.8,143615.2,154538.4,2
+Union City,"Transportation, warehouse & logistics",52000.0,47320.0,55640.0,15
+Vacaville,"Business, finance & HR",73826.0,72268.64125000002,75000.0,6
+Vacaville,Care & social services,49400.0,40560.0,81564.14875,8
+Vacaville,Engineering & science (non-software),174250.0,131375.0,217125.0,2
+Vacaville,Food service,44969.6,41860.0,48360.0,19
+Vacaville,Healthcare practitioners & support,76284.0,57213.0,146562.6,30
+Vacaville,Management (general),65448.0,49920.0,71000.0,9
+Vacaville,Office & administrative support,65000.0,57460.0,72540.0,2
+Vacaville,Personal care & service,42900.0,39780.0,47320.0,4
+Vacaville,Protective & building services,45760.0,40560.0,62155.0,3
+Vacaville,Retail & customer service,43680.0,40976.0,49597.6,19
+Vacaville,Sales,57500.0,55000.0,80900.0,5
+Vacaville,"Skilled trades, maintenance & repair",45760.0,44460.0,80000.0,13
+Vacaville,"Transportation, warehouse & logistics",48880.0,47840.0,61940.0,3
+Vallejo,"Business, finance & HR",55640.0,49140.0,62140.0,2
+Vallejo,Care & social services,49400.0,40105.0,53040.0,8
+Vallejo,Education & childcare,58000.0,42016.0,99450.0,7
+Vallejo,Food service,44200.0,42120.0,48620.0,14
+Vallejo,Healthcare practitioners & support,131545.0,86340.79999999999,177413.6,33
+Vallejo,Management (general),50000.0,49960.0,58250.0,3
+Vallejo,Office & administrative support,47060.0,42120.0,63676.600000000006,6
+Vallejo,Personal care & service,39520.0,39520.0,39520.0,1
+Vallejo,Protective & building services,49098.4,43466.8,53840.8,4
+Vallejo,Retail & customer service,43680.0,42640.0,47060.0,14
+Vallejo,Sales,80900.0,72000.0,87500.0,5
+Vallejo,"Skilled trades, maintenance & repair",63960.0,55965.0,70720.0,14
+Vallejo,"Software, data & IT",54770.0,45065.0,64475.0,2
+Vallejo,"Transportation, warehouse & logistics",57678.4,46800.0,60340.8,5
+Walnut Creek,"Business, finance & HR",87500.0,71950.4275,129325.0,43
+Walnut Creek,Care & social services,80000.0,74000.0,109200.0,13
+Walnut Creek,Education & childcare,30320.0,24160.0,36480.0,2
+Walnut Creek,Engineering & science (non-software),100000.0,80000.0,115850.0,7
+Walnut Creek,Food service,46800.0,42442.4,50050.0,10
+Walnut Creek,Healthcare practitioners & support,91700.0,61100.0,152000.0,62
+Walnut Creek,Management (general),82650.0,71062.5,101887.5,6
+Walnut Creek,Office & administrative support,54080.0,51854.399999999994,57971.0,16
+Walnut Creek,Personal care & service,44262.4,36400.0,59126.2,6
+Walnut Creek,Protective & building services,49400.0,41860.0,72313.79999999999,6
+Walnut Creek,Retail & customer service,44720.0,40287.0,56277.5,20
+Walnut Creek,Sales,75000.0,59280.0,102500.0,21
+Walnut Creek,"Skilled trades, maintenance & repair",87880.0,62920.0,98800.0,14
+Walnut Creek,"Software, data & IT",133725.0,121237.5,150750.0,6
+Walnut Creek,"Transportation, warehouse & logistics",45760.0,42640.0,104796.5,5
+Windsor,"Business, finance & HR",65580.0,51948.0,84625.0,4
+Windsor,Care & social services,44720.0,44720.0,44720.0,1
+Windsor,Food service,47444.8,41600.0,50440.0,10
+Windsor,Healthcare practitioners & support,252500.0,252500.0,252500.0,1
+Windsor,Retail & customer service,43680.0,42640.0,47840.0,9
+Windsor,Sales,87880.0,66820.0,108940.0,2
+Windsor,"Skilled trades, maintenance & repair",52000.0,45760.0,61000.0,3
+Windsor,"Transportation, warehouse & logistics",46800.0,46800.0,46800.0,1
+Woodside,Food service,49920.0,49920.0,49920.0,1
+Woodside,"Skilled trades, maintenance & repair",192400.0,192400.0,192400.0,1
+Yountville,"Business, finance & HR",56160.0,56160.0,56160.0,2
+Yountville,Food service,39520.0,35152.0,44980.0,12
+Yountville,Healthcare practitioners & support,145000.0,145000.0,145000.0,1
+Yountville,Office & administrative support,39000.0,39000.0,39000.0,1
+Yountville,Personal care & service,41600.0,41600.0,41600.0,1
+Yountville,Protective & building services,37440.0,37440.0,37440.0,1
+Yountville,Retail & customer service,48880.0,48880.0,48880.0,1
+Yountville,Sales,90500.0,90500.0,90500.0,1

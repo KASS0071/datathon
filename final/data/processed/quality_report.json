@@ -1,0 +1,64 @@
+{
+  "sample_only": false,
+  "indeed_source": "indeed_job_listings.csv",
+  "colleges": {
+    "Affordability Gap Data AY2022-23 2.17.25.xlsx": {
+      "rows_read": 21299,
+      "retained": 21299,
+      "missing_income_band": 1187
+    },
+    "College Results View 2021 Data Dump for Export.xlsx": {
+      "rows_read": 6289,
+      "retained": 6289
+    },
+    "joined": {
+      "both": 6127,
+      "bay_area": 124,
+      "outcomes_only": 162,
+      "affordability_only": 129,
+      "total_institutions": 6418,
+      "affordability_bands": 20112
+    }
+  },
+  "jobs": {
+    "rows_read": 140816,
+    "no_bay_area_city_match": 93065,
+    "retained": 46970,
+    "unknown": 25945,
+    "salary_parsed": 39816,
+    "annual_pay_usable": 39625,
+    "salary_missing": 7066,
+    "senior_or_3plus_years_signal": 19681,
+    "bay_area_region_only": 781,
+    "entry_description_signal": 980,
+    "annual_pay_unsupported_period": 84,
+    "entry_title_signal": 364,
+    "annual_pay_outside_benchmark_range": 95,
+    "salary_unparsed": 88,
+    "annual_pay_suspect_hourly_unit": 12
+  },
+  "zillow": {
+    "Zillow_part1.csv": {
+      "skipped": "file not found"
+    },
+    "zillow_part2.csv": {
+      "rows_read": 78424,
+      "not_california_for_rent": 38857,
+      "retained": 39565,
+      "missing_currency_assumed_usd": 0,
+      "no_bay_area_county_match": 2
+    },
+    "zillow_part3.csv": {
+      "rows_read": 39867,
+      "retained": 19844,
+      "missing_currency_assumed_usd": 0,
+      "not_california_for_rent": 20023
+    },
+    "Zillow properties listing information_sample.csv": {
+      "rows_read": 1000,
+      "not_california_for_rent": 978,
+      "no_bay_area_county_match": 18,
+      "duplicate_id": 4
+    }
+  }
+}

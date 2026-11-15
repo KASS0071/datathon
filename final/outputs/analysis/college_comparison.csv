@@ -1,0 +1,40 @@
+metric,source_column,family_income_ceiling_usd,group,n_institutions,median,scope
+Median debt of completers (2021),completer_median_debt_2021_usd,,Bay Area,33,20389.0,four-year institutions; unweighted median of institution values
+Median debt of completers (2021),completer_median_debt_2021_usd,,California (non-Bay),148,19621.0,four-year institutions; unweighted median of institution values
+Median debt of completers (2021),completer_median_debt_2021_usd,,National (other states),1979,23000.0,four-year institutions; unweighted median of institution values
+"6-year graduation rate, % (2021)",graduation_rate_6yr_2021_pct,,Bay Area,26,63.5,four-year institutions; unweighted median of institution values
+"6-year graduation rate, % (2021)",graduation_rate_6yr_2021_pct,,California (non-Bay),116,61.5,four-year institutions; unweighted median of institution values
+"6-year graduation rate, % (2021)",graduation_rate_6yr_2021_pct,,National (other states),1867,53.0,four-year institutions; unweighted median of institution values
+"Net price, low-income students (2020-21)",low_income_net_price_2020_21_usd,,Bay Area,27,16302.0,four-year institutions; unweighted median of institution values
+"Net price, low-income students (2020-21)",low_income_net_price_2020_21_usd,,California (non-Bay),146,17506.0,four-year institutions; unweighted median of institution values
+"Net price, low-income students (2020-21)",low_income_net_price_2020_21_usd,,National (other states),2028,14221.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,30000.0,Bay Area,22,16214.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,48000.0,Bay Area,22,16238.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,75000.0,Bay Area,22,21309.5,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,110000.0,Bay Area,21,20495.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,150000.0,Bay Area,21,34940.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,30000.0,California (non-Bay),136,19308.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,48000.0,California (non-Bay),127,19271.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,75000.0,California (non-Bay),122,20964.5,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,110000.0,California (non-Bay),111,25048.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,150000.0,California (non-Bay),110,31755.5,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,30000.0,National (other states),1956,14350.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,48000.0,National (other states),1889,14959.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,75000.0,National (other states),1862,17555.5,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,110000.0,National (other states),1777,21381.0,four-year institutions; unweighted median of institution values
+Net price by family income (2022-23),net_price_2022_23_usd,150000.0,National (other states),1632,24540.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,30000.0,Bay Area,22,9214.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,48000.0,Bay Area,22,9238.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,75000.0,Bay Area,22,14309.5,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,110000.0,Bay Area,21,13495.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,150000.0,Bay Area,21,27940.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,30000.0,California (non-Bay),136,12308.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,48000.0,California (non-Bay),127,12271.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,75000.0,California (non-Bay),122,13964.5,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,110000.0,California (non-Bay),111,18048.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,150000.0,California (non-Bay),110,24755.5,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,30000.0,National (other states),1954,9871.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,48000.0,National (other states),1888,10499.5,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,75000.0,National (other states),1861,13113.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,110000.0,National (other states),1776,17035.0,four-year institutions; unweighted median of institution values
+Affordability gap by family income (2022-23),affordability_gap_2022_23_usd,150000.0,National (other states),1632,20154.0,four-year institutions; unweighted median of institution values

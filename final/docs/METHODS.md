@@ -1,0 +1,11 @@
+# Methods and reproducibility
+
+1. **Preprocess.** Join college records by Unit ID and preserve income bands. Normalize Indeed pay units and city labels. Keep Zillow asking rents on rental listings, deduplicated by listing ID. Keep pay text and classify unannualized records. See DATA_NOTES.md.
+2. **Build market inputs.** Use one annualized wage point per posting, the midpoint or the available bound. Screen senior and part-time-only records, unsupported periods, suspect units and outliers. Remove likely reposts by title, company, city and pay text. Map titles to occupation groups. Group comparable Zillow rents by city and bedroom count. Determine rental sample sizes using distinct listing characteristics.
+3. **Define coverage.** The local model uses the screened median for each city and occupation. The entry-signal model uses one regional median per occupation across its cities. A modeled pair requires at least 10 relevant wage points and at least 20 distinct rental signatures for both one and two bedrooms. The 14 profiles within each model share an eligible set. The eligibility logs retain reasons for exclusion.
+4. **Calculate budgets.** Monthly take-home pay plus support covers rent, loan payments, essentials and childcare. Feasibility also requires the savings target. Positive gap means a shortfall. The Barrier Index is the fraction of eligible pairs with a shortfall. Gross break-even pay solves for zero gap using the configured tax mode. The rent burden ratio separately compares rent to gross wages.
+5. **Analyze.** Compare housing, debt, support and combined student-parent scenarios. Generate sensitivity tests, break-even by city, estimated changes needed to close shortfalls and college comparisons. Output one canonical copy of each table and generate five figures. Optional viewers and the notebook read those tables directly.
+
+The two models have different coverage and salary definitions. One observation is a modeled city and occupation pair, equally weighted within its model. The data cannot link college, job and housing outcomes for an individual.
+
+The app and analysis import src/budget/calculate_budget.py. See the problem statement and data notes for time coverage, reference populations, classifier checks and other limitations.

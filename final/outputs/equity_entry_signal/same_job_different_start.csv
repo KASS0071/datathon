@@ -1,0 +1,15 @@
+profile,city,occupation,median_annual_salary,net_monthly,family_support,personal_rent,loan_payment,essentials,childcare,savings_target,monthly_balance,feasibility_gap,feasible
+none_debt | alone | no_support,Daly City,Office & administrative support,60186.0,3992.449916666667,0.0,2629.5,0.0,1500.0,0.0,250.0,-137.05008333333308,387.0500833333331,False
+none_debt | alone | support,Daly City,Office & administrative support,60186.0,3992.449916666667,500.0,2629.5,0.0,1500.0,0.0,250.0,362.94991666666647,-112.94991666666647,True
+none_debt | shared | no_support,Daly City,Office & administrative support,60186.0,3992.449916666667,0.0,1686.0,0.0,1500.0,0.0,250.0,806.4499166666669,-556.4499166666669,True
+none_debt | shared | support,Daly City,Office & administrative support,60186.0,3992.449916666667,500.0,1686.0,0.0,1500.0,0.0,250.0,1306.4499166666665,-1056.4499166666665,True
+median_debt | alone | no_support,Daly City,Office & administrative support,60186.0,3992.449916666667,0.0,2629.5,230.37345744952742,1500.0,0.0,250.0,-367.4235407828605,617.4235407828605,False
+median_debt | alone | support,Daly City,Office & administrative support,60186.0,3992.449916666667,500.0,2629.5,230.37345744952742,1500.0,0.0,250.0,132.57645921713902,117.42354078286098,False
+median_debt | shared | no_support,Daly City,Office & administrative support,60186.0,3992.449916666667,0.0,1686.0,230.37345744952742,1500.0,0.0,250.0,576.0764592171395,-326.0764592171395,True
+median_debt | shared | support,Daly City,Office & administrative support,60186.0,3992.449916666667,500.0,1686.0,230.37345744952742,1500.0,0.0,250.0,1076.076459217139,-826.076459217139,True
+high_debt | alone | no_support,Daly City,Office & administrative support,60186.0,3992.449916666667,0.0,2629.5,282.4727272665744,1500.0,0.0,250.0,-419.5228105999074,669.5228105999081,False
+high_debt | alone | support,Daly City,Office & administrative support,60186.0,3992.449916666667,500.0,2629.5,282.4727272665744,1500.0,0.0,250.0,80.47718940009213,169.52281059990855,False
+high_debt | shared | no_support,Daly City,Office & administrative support,60186.0,3992.449916666667,0.0,1686.0,282.4727272665744,1500.0,0.0,250.0,523.9771894000926,-273.9771894000928,True
+high_debt | shared | support,Daly City,Office & administrative support,60186.0,3992.449916666667,500.0,1686.0,282.4727272665744,1500.0,0.0,250.0,1023.9771894000919,-773.9771894000924,True
+"student_parent (median_debt, 2br, childcare) | no_support",Daly City,Office & administrative support,60186.0,3992.449916666667,0.0,3372.0,230.37345744952742,1500.0,1795.4183333333333,250.0,-2905.341874116194,3155.3418741161936,False
+"student_parent (median_debt, 2br, childcare) | support",Daly City,Office & administrative support,60186.0,3992.449916666667,500.0,3372.0,230.37345744952742,1500.0,1795.4183333333333,250.0,-2405.341874116194,2655.341874116194,False

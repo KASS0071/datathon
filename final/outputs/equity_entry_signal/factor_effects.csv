@@ -1,0 +1,6 @@
+change_from_baseline,profile,delta_median_gap,delta_barrier_index,barrier_index,baseline_barrier_index
+student parent (median debt + childcare + 2br),"student_parent (median_debt, 2br, childcare) | no_support",2540.3401241161937,0.31034482758620696,0.9605911330049262,0.6502463054187192
+shared housing (2br split),none_debt | shared | no_support,-1036.1711166666664,-0.4125615763546798,0.23768472906403937,0.6502463054187192
+family support,none_debt | alone | support,-500.0000000000002,-0.20073891625615758,0.4495073891625616,0.6502463054187192
+high institutional debt (P75),high_debt | alone | no_support,282.472727266575,0.08374384236453203,0.7339901477832512,0.6502463054187192
+median institutional debt,median_debt | alone | no_support,230.37345744952745,0.07266009852216748,0.7229064039408867,0.6502463054187192
