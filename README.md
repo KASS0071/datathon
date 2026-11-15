@@ -55,28 +55,28 @@ python3.11 -m venv .venv
 .venv/bin/python -m pip install -r final/requirements.txt
 ```
 
-Then run the project commands from `final/`. The pipeline starts from the included processed snapshot.
+Run the commands below from the repository root (`datathon/`). The pipeline starts from the included processed snapshot.
 
 ```sh
-cd final
-
-# 1. Rebuild every result table and figure from data/processed/
-../.venv/bin/python -B run_pipeline.py
+# 1. Rebuild the analysis tables and figures from final/data/processed/
+./.venv/bin/python -B final/run_pipeline.py
 
 # 2. Run the unit tests (40 tests, standard-library unittest)
-../.venv/bin/python -B -m unittest discover -s tests -t .
+./.venv/bin/python -B -m unittest discover -s final/tests -t final
 
 # 3. Optional: refresh the Tableau map CSVs
-../.venv/bin/python -B visualization/build_tableau_maps.py
+./.venv/bin/python -B final/visualization/build_tableau_maps.py
 
 # 4. Optional: open the interactive dashboard
-../.venv/bin/python -m streamlit run visualization/dashboard/app.py
+./.venv/bin/python -m streamlit run final/visualization/dashboard/app.py
 ```
 
-- **Rebuild from raw data:** add `--preprocess` to step 1 to regenerate `data/processed/` from `data/raw/` first.
-- **Run only the cleaning step:** `../.venv/bin/python -B src/preprocess/clean_data.py`.
+To open the dashboard, run step 4 and open the Local URL printed in the terminal.
+
+- **Rebuild from raw data:** add `--preprocess` to step 1 to regenerate `final/data/processed/` from `final/data/raw/` first.
+- **Run only the cleaning step:** `./.venv/bin/python -B final/src/preprocess/clean_data.py`.
 - **Notebook:** open [visualization/visualizations.ipynb](final/visualization/visualizations.ipynb) in VS Code and select the `.venv` interpreter.
-- **Dependencies:** pinned in [requirements.txt](final/requirements.txt): pandas, NumPy, Matplotlib and openpyxl. To use the optional dashboard in a fresh environment, also run `../.venv/bin/python -m pip install streamlit plotly` from `final/`.
+- **Dependencies:** pinned in [requirements.txt](final/requirements.txt): pandas, NumPy, Matplotlib and openpyxl. To use the optional dashboard in a fresh environment, also run `./.venv/bin/python -m pip install streamlit plotly` from the repository root.
 - **Raw inputs for preprocessing:** put the original files in `final/data/raw/` or set `DATATHON_RAW_DIR`. The raw files are kept locally. `DATATHON_DATA_DIR` changes the dataset base directory.
 
 The pipeline is deterministic: running it twice produces byte-identical outputs.
